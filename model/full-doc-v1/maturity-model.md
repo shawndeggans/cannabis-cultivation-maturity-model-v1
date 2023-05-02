@@ -1,15 +1,5 @@
 # GrowerInTheLoop.com Approach to Cannabis Cultivation Maturity Assessment
 
-Clients: Green Nanny LLC
-Create Date: April 15, 2023 9:44 AM
-Is Open Creator Space?: Active
-Last Edited: May 2, 2023 11:02 AM
-Resource?: No
-
-# The [GrowerInTheLoop.com](http://GrowerInTheLoop.com) Approach to Cannabis Cultivation Maturity Assessment
-
----
-
 ## Introduction
 
 My wife and I started Green Nanny in 2019 with a vision for a better way to grow. Of the two of us, she had far more experience with the growing process, an understanding of plants, and an overall joy that comes from the magical cannabis plant than I did. What I brought to the table was a tenacity for learning new things and more than 25 years of experience in technology. Around this time, the promises and hype for IoT (Internet of Things) and AI (Artificial Intelligence) were at their highest. Combining the two created a whole new technology discipline called Edge Engineering. Edge Engineering allows you to containerize machine learning models trained to do specific tasks that used to be accomplished by humans and deploy them to IoT Edge devices. From the devices, the ML model would use sensors to recognize objects, detect dangerous machine conditions, and make fast, complex decisions that used to be the purview of human operators.
