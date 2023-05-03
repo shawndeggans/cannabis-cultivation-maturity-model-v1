@@ -10,13 +10,13 @@
 | 6. Water | [water/initial/doc.md](water/initial/doc.md) | [water/developing/doc.md](water/developing/doc.md) | [water/defined/doc.md](water/defined/doc.md) | [water/managed/doc.md](water/managed/doc.md) | [water/optimizing/doc.md](water/optimizing/doc.md)
  |
 | 7. Nutrition and Fertilization | [nutrition-fertilization/initial/doc.md](nutrition-fertilization/initial/doc.md) | [nutrition-fertilization/developing/doc.md](nutrition-fertilization/developing/doc.md) | [nutrition-fertilization/defined/doc.md](nutrition-fertilization/defined/doc.md) | [nutrition-fertilization/managed/doc.md](nutrition-fertilization/managed/doc.md) | [nutrition-fertilization/optimizing/doc.md](nutrition-fertilization/optimizing/doc.md) |
-| 8. Irrigation and Fertigation |  |  |  |  |  |
-| 9. Growing Media |  |  |  |  |  |
-| 10. Beneficial Microorganisms |  |  |  |  |  |
-| 11. Oxygen and Oxygenation |  |  |  |  |  |
-| 12. Rootzone care |  |  |  |  |  |
-| 13. Canopy Management |  |  |  |  |  |
-| 14. Diseases and Pest control |  |  |  |  |  |
+| 8. Irrigation and Fertigation | [irrigation/initial/doc.md](irrigation/initial/doc.md) | [irrigation/developing/doc.md](irrigation/developing/doc.md) | [irrigation/defined/doc.md](irrigation/defined/doc.md) | [irrigation/managed/doc.md](irrigation/managed/doc.md) | [irrigation/optimizing/doc.md](irrigation/optimizing/doc.md) |
+| 9. Growing Media | [growing-media/initial/doc.md](growing-media/initial/doc.md) | [growing-media/developing/doc.md](growing-media/developing/doc.md) | [growing-media/defined/doc.md](growing-media/defined/doc.md) | [growing-media/managed/doc.md](growing-media/managed/doc.md) | [growing-media/optimizing/doc.md](growing-media/optimizing/doc.md) |
+| 10. Beneficial Microorganisms | [beneficial-micros/initial/doc.md](beneficial-micros/initial/doc.md) | [beneficial-micros/developing/doc.md](beneficial-micros/developing/doc.md) | [beneficial-micros/defined/doc.md](beneficial-micros/defined/doc.md) | [beneficial-micros/managed/doc.md](beneficial-micros/managed/doc.md) | [beneficial-micros/optimizing/doc.md](beneficial-micros/optimizing/doc.md) |
+| 11. Oxygen and Oxygenation | [oxygen/initial/doc.md](oxygen/initial/doc.md) | [oxygen/developing/doc.md](oxygen/developing/doc.md) | [oxygen/defined/doc.md](oxygen/defined/doc.md) | [oxygen/managed/doc.md](oxygen/managed/doc.md) | [oxygen/optimizing/doc.md](oxygen/optimizing/doc.md) |
+| 12. Rootzone care | [rootzone/initial/doc.md](rootzone/initial/doc.md) | [rootzone/developing/doc.md](rootzone/developing/doc.md) | [rootzone/defined/doc.md](rootzone/defined/doc.md) | [rootzone/managed/doc.md](rootzone/managed/doc.md) | [rootzone/optimizing/doc.md](rootzone/optimizing/doc.md) |
+| 13. Canopy Management | [rootzone/initial/doc.md](rootzone/initial/doc.md) | [canopy-management/developing/doc.md](canopy-management/developing/doc.md) | [canopy-management/defined/doc.md](canopy-management/defined/doc.md) | [canopy-management/managed/doc.md](canopy-management/managed/doc.md) | [canopy-management/optimizing/doc.md](canopy-management/optimizing/doc.md) |
+| 14. Diseases and Pest control | [disease-pest-management/initial/doc.md](disease-pest-management/initial/doc.md) | [disease-pest-management/developing/doc.md](disease-pest-management/developing/doc.md) | [disease-pest-management/defined/doc.md](disease-pest-management/defined/doc.md) | [disease-pest-management/managed/doc.md](disease-pest-management/managed/doc.md) | [disease-pest-management/optimizing/doc.md](disease-pest-management/optimizing/doc.md) |
 
 # Temperature
 
