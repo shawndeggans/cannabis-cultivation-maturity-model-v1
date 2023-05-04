@@ -26,7 +26,7 @@ Despite this setback, I remained committed to learning about the basics and adva
 
 ### An Education in Cannabis
 
-There's nothing quite like working in a real facility to gain an education, and luckily, I've had the opportunity to see real operations from cloning to harvesting to trimming. Clint Baker from Papa Jesus Farms has been a great mentor in this area. And of course, there are other places to get an education, like books. These are some of my favorites:
+There's nothing quite like working in a real facility to gain an education, and luckily, I've had the opportunity to see real operations from cloning to harvesting to trimming. Clent Baker from Papa Jesus Farms has been a great mentor in this area. And of course, there are other places to get an education, like books. These are some of my favorites:
 
 - *The Cannabis Business Book* by Michael Zaytsev
 - *Marijuana Horticulture* by Jorge Cervates
