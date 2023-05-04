@@ -60,8 +60,8 @@ There are no current contribution guidelines. If you would like to contribute, p
 The same address above will contact GrowerInTheLoop.com, or you can vist the website and sighn up for the newsletter at https://growerintheloop.com/introducing-growerintheloop
 
 ## We have an introduction to get you acquainted:
-[intro/growerintheloop-approach.md](An introduction to the GrowerInTheLoop.com Approach)
+[Introduction to the Maturity Model](intro/growerintheloop-approach.md)
 
 ## The maturity model is here:
-[model/full-doc-v1/maturity-model.md](The GrowerInTheLoop.com Cannabis Cultivation Maturity Model)
+[The complete Maturity Model](model/full-doc-v1/maturity-model.md)
 
