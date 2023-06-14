@@ -64,6 +64,5 @@ The same address above will contact GrowerInTheLoop.com, or you can vist the web
 ## We have an introduction to get you acquainted:
 [Introduction to the Maturity Model]({{ site.baseurl }}{% link intro/growerintheloop-approach.md %})
 ## The maturity model is here:
-[The complete Maturity Model]({{ site.baseurl }}{% link model/full-doc-v1/maturity-model.md %})
-## HTML Pages for this project
-You can find HTML versions for this guide under the `docs` directory
+[The complete Maturity Model](model/full-doc-v1/maturity-model.md)
+
