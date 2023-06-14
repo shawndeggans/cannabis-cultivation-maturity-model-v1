@@ -65,3 +65,5 @@ The same address above will contact GrowerInTheLoop.com, or you can vist the web
 ## The maturity model is here:
 [The complete Maturity Model](model/full-doc-v1/maturity-model.md)
 
+## HTML Pages for this project
+You can find HTML versions for this guide under the `docs` directory
