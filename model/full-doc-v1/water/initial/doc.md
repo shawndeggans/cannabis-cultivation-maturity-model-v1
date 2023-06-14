@@ -3,6 +3,10 @@ layout: default
 title: "People and Managing Water at Initial stage (Ad hoc)"
 ---
 
+---
+layout: default
+title: "People and Managing Water at Initial stage (Ad hoc)"
+---
 ### People and Managing Water at Initial stage (Ad hoc)
 
 At the Initial stage (Ad hoc) of the maturity model, cannabis cultivation operations typically lack formalized processes and standardization. People working in such cultivation facilities often face various challenges related to water management.

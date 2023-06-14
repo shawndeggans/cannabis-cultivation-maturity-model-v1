@@ -3,6 +3,10 @@ layout: default
 title: "People and Managing  Diseases and Pest control at Optimizing stage (Cutting-edge technology adoption)"
 ---
 
+---
+layout: default
+title: "People and Managing  Diseases and Pest control at Optimizing stage (Cutting-edge technology adoption)"
+---
 ### People and Managing  Diseases and Pest control at Optimizing stage (Cutting-edge technology adoption)
 
 At the Optimizing stage (Cutting-edge technology adoption), cannabis cultivation facilities have adopted the latest technology and processes to manage diseases and pest control efficiently. The personnel working at this maturity stage are highly skilled and have a deep understanding of the technologies and techniques being used. The roles involved in managing diseases and pest control at this stage include:

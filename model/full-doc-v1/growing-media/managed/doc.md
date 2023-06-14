@@ -3,6 +3,10 @@ layout: default
 title: "People and Managing Growing Media at Managed stage (Advanced technology adoption)"
 ---
 
+---
+layout: default
+title: "People and Managing Growing Media at Managed stage (Advanced technology adoption)"
+---
 ### People and Managing Growing Media at Managed stage (Advanced technology adoption)
 
 At the Managed stage (Advanced technology adoption), cannabis cultivation facilities have integrated advanced technology and automated systems into their operations, streamlining the management of growing media. This stage focuses on continuous improvement and efficient resource utilization.

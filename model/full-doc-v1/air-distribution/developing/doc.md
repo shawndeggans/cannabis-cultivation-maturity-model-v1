@@ -3,6 +3,10 @@ layout: default
 title: "People and Managing Air distribution at Developing stage (Basic digitalization)"
 ---
 
+---
+layout: default
+title: "People and Managing Air distribution at Developing stage (Basic digitalization)"
+---
 ### People and Managing Air distribution at Developing stage (Basic digitalization)
 
 At the Developing stage (Basic digitalization) of a cannabis cultivation facility's maturity, operations related to managing air distribution begin to incorporate digital systems and tools. This stage sees improvements in monitoring and managing environmental conditions, but challenges still persist.

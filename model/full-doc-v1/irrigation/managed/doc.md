@@ -3,6 +3,10 @@ layout: default
 title: "People and Managing Irrigation and Fertigation at Managed stage (Advanced technology adoption)"
 ---
 
+---
+layout: default
+title: "People and Managing Irrigation and Fertigation at Managed stage (Advanced technology adoption)"
+---
 ### People and Managing Irrigation and Fertigation at Managed stage (Advanced technology adoption)
 
 As a cannabis cultivation owner at the Managed stage (Advanced technology adoption), the operations concerning irrigation and fertigation are highly sophisticated, with cutting-edge technologies and systems integrated into the processes. This stage enables improved management of resources, increased efficiency, and higher-quality cannabis production. The following roles are involved in managing irrigation and fertigation:

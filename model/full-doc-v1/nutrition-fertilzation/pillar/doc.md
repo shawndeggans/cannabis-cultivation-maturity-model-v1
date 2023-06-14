@@ -3,6 +3,10 @@ layout: default
 title: "Nutrition and Fertilization and the Plant Lifecycle"
 ---
 
+---
+layout: default
+title: "Nutrition and Fertilization and the Plant Lifecycle"
+---
 ## Nutrition and Fertilization and the Plant Lifecycle
 
 Nutrition and fertilization play a critical role in each stage of the plant life cycle. Here's a detailed breakdown of how these factors relate to the various stages in the cannabis plant's life cycle:

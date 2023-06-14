@@ -3,6 +3,10 @@ layout: default
 title: "People and Managing Canopy Management at Optimizing stage (Cutting-edge technology adoption)"
 ---
 
+---
+layout: default
+title: "People and Managing Canopy Management at Optimizing stage (Cutting-edge technology adoption)"
+---
 ### People and Managing Canopy Management at Optimizing stage (Cutting-edge technology adoption)
 
 At the Optimizing stage (Cutting-edge technology adoption), people working in a cannabis cultivation facility related to Canopy Management will likely be involved in a highly efficient and advanced operation. The roles involved in this stage include:

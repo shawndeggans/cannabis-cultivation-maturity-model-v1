@@ -3,6 +3,10 @@ layout: default
 title: "People and Managing Nutrition and Fertilization at Initial stage (Ad hoc)"
 ---
 
+---
+layout: default
+title: "People and Managing Nutrition and Fertilization at Initial stage (Ad hoc)"
+---
 ### People and Managing Nutrition and Fertilization at Initial stage (Ad hoc)
 
 At the Initial stage (Ad hoc) of maturity in a cannabis cultivation facility, operations related to Nutrition and Fertilization are less structured and more reliant on individual knowledge and experience. People working at this stage face several challenges due to the lack of standardized processes and technology.

@@ -3,6 +3,10 @@ layout: default
 title: "People and Managing Water at Managed stage (Advanced technology adoption)"
 ---
 
+---
+layout: default
+title: "People and Managing Water at Managed stage (Advanced technology adoption)"
+---
 ### People and Managing Water at Managed stage (Advanced technology adoption)
 
 At the Managed stage (Advanced technology adoption), cannabis cultivation owners have implemented advanced technologies and systems to manage water effectively. Employees working in this environment have a more streamlined and automated approach to managing water, which can improve efficiency and productivity.

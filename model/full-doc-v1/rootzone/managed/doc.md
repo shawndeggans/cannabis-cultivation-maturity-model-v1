@@ -3,6 +3,10 @@ layout: default
 title: "People and Managing Rootzone care at Managed stage (Advanced technology adoption)"
 ---
 
+---
+layout: default
+title: "People and Managing Rootzone care at Managed stage (Advanced technology adoption)"
+---
 ### People and Managing Rootzone care at Managed stage (Advanced technology adoption)
 
 At the Managed stage (Advanced technology adoption), the cannabis cultivation facility has implemented advanced technologies and systems to improve efficiency, optimize resources, and enhance product quality and consistency. This maturity level brings new opportunities and challenges for the people working with or managing Rootzone care.

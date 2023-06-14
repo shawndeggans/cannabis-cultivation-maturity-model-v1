@@ -3,6 +3,10 @@ layout: default
 title: "People and Managing Rootzone care at Developing stage (Basic digitalization)"
 ---
 
+---
+layout: default
+title: "People and Managing Rootzone care at Developing stage (Basic digitalization)"
+---
 ### People and Managing Rootzone care at Developing stage (Basic digitalization)
 
 At the Developing stage (Basic digitalization), a cannabis cultivation facility is beginning to implement more structured processes and leverage digital tools for managing Rootzone care. As a cultivation owner, it's important to consider how this impacts the people working at the facility and their roles.

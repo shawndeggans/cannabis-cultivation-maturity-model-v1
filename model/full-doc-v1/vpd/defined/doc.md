@@ -3,6 +3,10 @@ layout: default
 title: "People and Managing  VPD at Defined stage (Intermediate technology adoption)"
 ---
 
+---
+layout: default
+title: "People and Managing  VPD at Defined stage (Intermediate technology adoption)"
+---
 ### People and Managing  VPD at Defined stage (Intermediate technology adoption)
 
 As a cannabis cultivation owner at the Defined stage (Intermediate technology adoption), the management of VPD is more streamlined and data-driven, leading to improved operational efficiency. People working in the cultivation facility have specific roles and responsibilities related to managing VPD.

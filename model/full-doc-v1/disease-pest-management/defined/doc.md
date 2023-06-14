@@ -3,6 +3,10 @@ layout: default
 title: "People and Managing Diseases and Pest control at Defined stage (Intermediate technology adoption)"
 ---
 
+---
+layout: default
+title: "People and Managing Diseases and Pest control at Defined stage (Intermediate technology adoption)"
+---
 ### People and Managing Diseases and Pest control at Defined stage (Intermediate technology adoption)
 
 At the Defined stage (Intermediate technology adoption), the operations for managing diseases and pest control are more structured, and technology is more widely used to streamline processes. Here are the key roles and their responsibilities at this maturity stage:

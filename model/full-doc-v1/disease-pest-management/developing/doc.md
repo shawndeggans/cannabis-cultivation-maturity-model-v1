@@ -3,6 +3,10 @@ layout: default
 title: "People and Managing Diseases and Pest control at Developing stage (Basic digitalization)"
 ---
 
+---
+layout: default
+title: "People and Managing Diseases and Pest control at Developing stage (Basic digitalization)"
+---
 ### People and Managing Diseases and Pest control at Developing stage (Basic digitalization)
 
 At the Developing stage (Basic digitalization) of maturity, there is a shift towards adopting digital tools and more formalized processes for managing diseases and pest control. The following roles in the cultivation facility may be involved in these efforts:

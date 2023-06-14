@@ -3,6 +3,10 @@ layout: default
 title: "People and Managing  Irrigation and Fertigation at Developing stage (Basic digitalization)"
 ---
 
+---
+layout: default
+title: "People and Managing  Irrigation and Fertigation at Developing stage (Basic digitalization)"
+---
 ### People and Managing  Irrigation and Fertigation at Developing stage (Basic digitalization)
 
 At the Developing stage (Basic digitalization), a cannabis cultivation facility is in the process of adopting basic digital tools and solutions to manage Irrigation and Fertigation. While there is some improvement in operations compared to the Initial stage, there are still challenges faced by the people working at this maturity level.

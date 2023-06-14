@@ -3,6 +3,10 @@ layout: default
 title: "People and Managing  Irrigation and Fertigation at Initial stage (Ad hoc)"
 ---
 
+---
+layout: default
+title: "People and Managing  Irrigation and Fertigation at Initial stage (Ad hoc)"
+---
 ### People and Managing  Irrigation and Fertigation at Initial stage (Ad hoc)
 
 At the Initial stage (Ad hoc) of cannabis cultivation, operations related to irrigation and fertigation are typically less structured and more reactive. The people involved in managing irrigation and fertigation at this maturity level may face several challenges due to the lack of standardized processes and technology.

@@ -3,6 +3,10 @@ layout: default
 title: "People and Managing VPD at Initial stage (Ad hoc)"
 ---
 
+---
+layout: default
+title: "People and Managing VPD at Initial stage (Ad hoc)"
+---
 ### People and Managing VPD at Initial stage (Ad hoc)
 
 As a cannabis cultivation owner with a facility operating at the Initial stage (Ad hoc) of maturity, managing VPD would likely involve less advanced methods and more manual efforts. The roles in the cultivation facility that would be involved in managing VPD at this stage include:

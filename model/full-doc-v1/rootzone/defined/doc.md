@@ -3,6 +3,10 @@ layout: default
 title: "People and Managing Rootzone care at Defined stage (Intermediate technology adoption)"
 ---
 
+---
+layout: default
+title: "People and Managing Rootzone care at Defined stage (Intermediate technology adoption)"
+---
 ### People and Managing Rootzone care at Defined stage (Intermediate technology adoption)
 
 At the Defined stage (Intermediate technology adoption), cannabis cultivation facility employees are working with more advanced technology and standardized processes related to Rootzone care management. This maturity stage allows for greater efficiency and effectiveness in managing various aspects of Rootzone care.

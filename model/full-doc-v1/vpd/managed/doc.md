@@ -3,6 +3,10 @@ layout: default
 title: "People and Managing  VPD at Managed stage (Advanced technology adoption)"
 ---
 
+---
+layout: default
+title: "People and Managing  VPD at Managed stage (Advanced technology adoption)"
+---
 ### People and Managing  VPD at Managed stage (Advanced technology adoption)
 
 As a cannabis cultivation owner at the Managed stage (Advanced technology adoption), the operations involve utilizing advanced technology to monitor and manage VPD effectively. Various roles within the cultivation facility work together to ensure that VPD is maintained at optimal levels.

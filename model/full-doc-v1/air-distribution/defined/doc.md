@@ -3,6 +3,10 @@ layout: default
 title: "People and Managing Air distribution at Defined stage (Intermediate technology adoption)"
 ---
 
+---
+layout: default
+title: "People and Managing Air distribution at Defined stage (Intermediate technology adoption)"
+---
 ### People and Managing Air distribution at Defined stage (Intermediate technology adoption)
 
 As a cannabis cultivation owner, the people working at the Maturity Stage of Defined stage (Intermediate technology adoption) will be more equipped to manage air distribution, thanks to improved technology and more defined processes. Here's an overview of the involved roles, their activities, and potential problems they may face at this maturity level:

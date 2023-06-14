@@ -3,6 +3,10 @@ layout: default
 title: "People and Managing Radiation or Lighting at Optimizing stage (Cutting-edge technology adoption)"
 ---
 
+---
+layout: default
+title: "People and Managing Radiation or Lighting at Optimizing stage (Cutting-edge technology adoption)"
+---
 ### People and Managing Radiation or Lighting at Optimizing stage (Cutting-edge technology adoption)
 
 - Now I want you to think like a cannabis cultivation owner and consider what operations is like for the people who are working at the Maturity Stage of Optimizing stage (Cutting-edge technology adoption) related to how they work with or manage Radiation or Lighting. Discuss which roles in the cultivation facility are involved. Discuss how people fulfilling these roles spend their time. Discuss what type of problems these people can face because of the maturity level that they are working at.

@@ -3,6 +3,10 @@ layout: default
 title: "People and Managing VPD at Developing stage (Basic digitalization)"
 ---
 
+---
+layout: default
+title: "People and Managing VPD at Developing stage (Basic digitalization)"
+---
 ### People and Managing VPD at Developing stage (Basic digitalization)
 
 As a cannabis cultivation owner considering the Developing stage (Basic digitalization) for managing VPD, the operations involve more digital tools and better organization compared to the Initial stage (Ad hoc). At this maturity stage, the roles involved in VPD management include growers, cultivation technicians, and operations managers.

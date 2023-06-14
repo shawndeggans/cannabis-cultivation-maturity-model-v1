@@ -3,6 +3,10 @@ layout: default
 title: "People and Managing Beneficial Microorganisms at Developing stage (Basic digitalization)"
 ---
 
+---
+layout: default
+title: "People and Managing Beneficial Microorganisms at Developing stage (Basic digitalization)"
+---
 ### People and Managing Beneficial Microorganisms at Developing stage (Basic digitalization)
 
 At the Developing stage (Basic digitalization), cannabis cultivation facilities have begun to implement basic digital tools and processes for managing Beneficial Microorganisms. The operations for people working at this maturity stage will be more structured than at the Initial stage (Ad hoc), but still have room for improvement.

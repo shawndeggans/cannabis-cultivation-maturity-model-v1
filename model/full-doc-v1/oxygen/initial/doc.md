@@ -3,6 +3,10 @@ layout: default
 title: "People and Managing Oxygen and Oxygenation at Initial stage (Ad hoc)"
 ---
 
+---
+layout: default
+title: "People and Managing Oxygen and Oxygenation at Initial stage (Ad hoc)"
+---
 ### People and Managing Oxygen and Oxygenation at Initial stage (Ad hoc)
 
 At the Initial stage (Ad hoc) of cannabis cultivation, the operations related to managing Oxygen and Oxygenation are typically informal and lack well-defined processes. Here's an overview of the roles involved and the challenges they face at this maturity level:

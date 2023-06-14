@@ -3,6 +3,10 @@ layout: default
 title: "People and Managing  Carbon Dioxide at Managed stage (Advanced technology adoption)"
 ---
 
+---
+layout: default
+title: "People and Managing  Carbon Dioxide at Managed stage (Advanced technology adoption)"
+---
 ### People and Managing  Carbon Dioxide at Managed stage (Advanced technology adoption)
 
 At the Managed stage (Advanced technology adoption) of cannabis cultivation maturity, operations regarding Carbon Dioxide management are more sophisticated, and people working in the facility benefit from advanced technologies and processes. Roles involved in managing CO2 at this stage may include:

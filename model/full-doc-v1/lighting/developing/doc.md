@@ -3,6 +3,10 @@ layout: default
 title: "People and Managing Radiation or Lighting at Developing stage (Basic digitalization)"
 ---
 
+---
+layout: default
+title: "People and Managing Radiation or Lighting at Developing stage (Basic digitalization)"
+---
 ### People and Managing Radiation or Lighting at Developing stage (Basic digitalization)
 
 As a cannabis cultivation owner at the Developing stage (Basic digitalization) of the maturity model, the management of Radiation or Lighting becomes more structured and data-driven. The following roles in the cultivation facility are involved in managing Radiation or Lighting:

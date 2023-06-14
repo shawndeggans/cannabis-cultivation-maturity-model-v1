@@ -3,6 +3,10 @@ layout: default
 title: "People and Managing Irrigation and Fertigation at Optimizing stage (Cutting-edge technology adoption)"
 ---
 
+---
+layout: default
+title: "People and Managing Irrigation and Fertigation at Optimizing stage (Cutting-edge technology adoption)"
+---
 ### People and Managing Irrigation and Fertigation at Optimizing stage (Cutting-edge technology adoption)
 
 At the Optimizing stage (Cutting-edge technology adoption) in a cannabis cultivation facility, people working with irrigation and fertigation will be leveraging the latest technological advancements to maximize resource efficiency, product quality, and yield. The roles involved in managing irrigation and fertigation may include:

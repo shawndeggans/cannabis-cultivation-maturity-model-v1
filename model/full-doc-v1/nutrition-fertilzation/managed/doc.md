@@ -3,6 +3,10 @@ layout: default
 title: "People and Managing Nutrition and Fertilization at Managed stage (Advanced technology adoption)"
 ---
 
+---
+layout: default
+title: "People and Managing Nutrition and Fertilization at Managed stage (Advanced technology adoption)"
+---
 ### People and Managing Nutrition and Fertilization at Managed stage (Advanced technology adoption)
 
 At the Managed stage (Advanced technology adoption), a cannabis cultivation facility leverages advanced technology and automated systems for a more streamlined and efficient approach to nutrition and fertilization management. This stage sees a more proactive approach to problem-solving, reducing the occurrence of issues that could impact plant health or yield.

@@ -3,6 +3,10 @@ layout: default
 title: "Managed Stage (Advanced Technology Adoption) for Temperature"
 ---
 
+---
+layout: default
+title: "Managed Stage (Advanced Technology Adoption) for Temperature"
+---
 ## Managed Stage (Advanced Technology Adoption) for Temperature
 ### People and Managing Temperature at Managed Stage (Advanced Technology Adoption)
 

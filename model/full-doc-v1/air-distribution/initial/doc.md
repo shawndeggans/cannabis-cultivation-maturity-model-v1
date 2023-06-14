@@ -3,6 +3,10 @@ layout: default
 title: "People and Managing Air distribution at Initial stage (Ad hoc)"
 ---
 
+---
+layout: default
+title: "People and Managing Air distribution at Initial stage (Ad hoc)"
+---
 ### People and Managing Air distribution at Initial stage (Ad hoc)
 
 At the Initial stage (Ad hoc) of a cannabis cultivation facility's maturity, air distribution management is likely to be less structured and more reactive. In this stage, the people working at the facility may not have clearly defined roles and responsibilities, and air distribution management might be handled by a small team or even a single individual, with limited resources and experience.

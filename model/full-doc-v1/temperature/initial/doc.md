@@ -3,6 +3,10 @@ layout: default
 title: "People and Managing Temperature at Ad Hoc"
 ---
 
+---
+layout: default
+title: "People and Managing Temperature at Ad Hoc"
+---
 ### People and Managing Temperature at Ad Hoc
 
 As a cannabis cultivation facility operations manager operating at the Ad hoc maturity stage for temperature management, you will primarily rely on manual processes and observations to maintain the appropriate temperature for your plants. In this stage, your staff may not have access to advanced tools or technology to monitor and control the temperature efficiently.

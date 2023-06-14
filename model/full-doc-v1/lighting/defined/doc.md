@@ -3,6 +3,10 @@ layout: default
 title: "People and Managing Radiation or Lighting at Defined stage (Intermediate technology adoption)"
 ---
 
+---
+layout: default
+title: "People and Managing Radiation or Lighting at Defined stage (Intermediate technology adoption)"
+---
 ### People and Managing Radiation or Lighting at Defined stage (Intermediate technology adoption)
 
 At the Defined stage (Intermediate technology adoption), the cannabis cultivation facility has established processes, and technology adoption is more advanced than in the previous stages. People working at this maturity stage are more skilled and knowledgeable about managing Radiation or Lighting.

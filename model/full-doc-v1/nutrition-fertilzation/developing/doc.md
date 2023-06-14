@@ -3,6 +3,10 @@ layout: default
 title: "People and Managing Nutrition and Fertilization at Developing stage (Basic digitalization)"
 ---
 
+---
+layout: default
+title: "People and Managing Nutrition and Fertilization at Developing stage (Basic digitalization)"
+---
 ### People and Managing Nutrition and Fertilization at Developing stage (Basic digitalization)
 
 At the Developing stage (Basic digitalization) of the maturity model, operations for managing Nutrition and Fertilization become more structured, with basic digital tools supporting the cultivation process. Roles in the cultivation facility involved in managing nutrition and fertilization may include:

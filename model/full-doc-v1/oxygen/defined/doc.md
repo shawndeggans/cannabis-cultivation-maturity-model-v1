@@ -3,6 +3,10 @@ layout: default
 title: "People and Managing Oxygen and Oxygenation at Defined stage (Intermediate technology adoption)"
 ---
 
+---
+layout: default
+title: "People and Managing Oxygen and Oxygenation at Defined stage (Intermediate technology adoption)"
+---
 ### People and Managing Oxygen and Oxygenation at Defined stage (Intermediate technology adoption)
 
 At the Defined stage (Intermediate technology adoption), cannabis cultivation facilities have established processes and systems for managing Oxygen and Oxygenation, which can improve the overall efficiency and effectiveness of the operation. However, there are still challenges that people working in the facility may face.

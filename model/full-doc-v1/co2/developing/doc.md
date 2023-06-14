@@ -3,6 +3,10 @@ layout: default
 title: "People and Managing  Carbon Dioxide at Developing stage (Basic digitalization)"
 ---
 
+---
+layout: default
+title: "People and Managing  Carbon Dioxide at Developing stage (Basic digitalization)"
+---
 ### People and Managing  Carbon Dioxide at Developing stage (Basic digitalization)
 
 At the Developing stage (Basic digitalization) of the Maturity Model, cannabis cultivation facilities have started implementing basic digital tools to help manage various aspects of the operation, including the management of carbon dioxide (CO2). The roles involved in CO2 management at this stage may include:

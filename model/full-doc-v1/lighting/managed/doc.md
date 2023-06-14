@@ -3,6 +3,10 @@ layout: default
 title: "People and Managing Radiation or Lighting at Managed stage (Advanced technology adoption)"
 ---
 
+---
+layout: default
+title: "People and Managing Radiation or Lighting at Managed stage (Advanced technology adoption)"
+---
 ### People and Managing Radiation or Lighting at Managed stage (Advanced technology adoption)
 
 At the Managed stage (Advanced technology adoption), the cannabis cultivation facility has a well-structured approach to managing Radiation or Lighting, with specialized roles and advanced technologies in place.

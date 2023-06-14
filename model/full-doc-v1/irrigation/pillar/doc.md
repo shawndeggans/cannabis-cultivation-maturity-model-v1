@@ -3,6 +3,10 @@ layout: default
 title: "Irrigation and Fertigation in the Plant Lifecycle"
 ---
 
+---
+layout: default
+title: "Irrigation and Fertigation in the Plant Lifecycle"
+---
 ## Irrigation and Fertigation in the Plant Lifecycle
 
 Irrigation and fertigation play a critical role in each stage of the plant life cycle. The specific requirements for water and nutrients may vary throughout the different stages, making proper management essential for optimal growth and development. Here's a detailed overview of how irrigation and fertigation relate to each stage of the plant life cycle:

@@ -3,6 +3,10 @@ layout: default
 title: "People and Managing Temperature at Developing Stage (Basic Digitalization)"
 ---
 
+---
+layout: default
+title: "People and Managing Temperature at Developing Stage (Basic Digitalization)"
+---
 ### People and Managing Temperature at Developing Stage (Basic Digitalization)
 
 As a cannabis cultivation owner, considering operations at the Developing Stage (Basic Digitalization) maturity level, the management of temperature becomes more streamlined and efficient due to the adoption of basic digital systems and technology. Here's how operations and the roles involved may evolve at this stage:

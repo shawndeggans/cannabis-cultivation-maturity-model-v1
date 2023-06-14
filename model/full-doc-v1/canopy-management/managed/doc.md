@@ -3,6 +3,10 @@ layout: default
 title: "People and Managing Canopy Management at Managed stage (Advanced technology adoption)"
 ---
 
+---
+layout: default
+title: "People and Managing Canopy Management at Managed stage (Advanced technology adoption)"
+---
 ### People and Managing Canopy Management at Managed stage (Advanced technology adoption)
 
 At the Managed stage (Advanced technology adoption) of a cannabis cultivation facility, the operations related to Canopy Management are more streamlined, data-driven, and automated. The people working at this maturity level are likely to be more specialized and experienced.

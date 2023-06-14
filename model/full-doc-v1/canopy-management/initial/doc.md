@@ -3,6 +3,10 @@ layout: default
 title: "People and Managing Canopy Management at Initial stage (Ad hoc)"
 ---
 
+---
+layout: default
+title: "People and Managing Canopy Management at Initial stage (Ad hoc)"
+---
 ### People and Managing Canopy Management at Initial stage (Ad hoc)
 
 At the Initial stage (Ad hoc) of cannabis cultivation maturity, operations are often less structured and formalized. People working with Canopy Management at this stage may face various challenges due to the lack of standardized processes, limited resources, and potentially inconsistent approaches.

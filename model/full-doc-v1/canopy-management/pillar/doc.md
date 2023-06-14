@@ -3,6 +3,10 @@ layout: default
 title: "Canopy Management and the Plant Lifecycle"
 ---
 
+---
+layout: default
+title: "Canopy Management and the Plant Lifecycle"
+---
 ## Canopy Management and the Plant Lifecycle
 
 Canopy management is a vital aspect of cannabis cultivation, involving the control and shaping of the plant's structure to optimize light exposure, airflow, and overall plant health. Here's how canopy management relates to each stage of the plant life cycle:

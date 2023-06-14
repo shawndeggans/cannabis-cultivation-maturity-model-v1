@@ -3,6 +3,10 @@ layout: default
 title: "People and Managing Growing Media at Defined stage (Intermediate technology adoption)"
 ---
 
+---
+layout: default
+title: "People and Managing Growing Media at Defined stage (Intermediate technology adoption)"
+---
 ### People and Managing Growing Media at Defined stage (Intermediate technology adoption)
 
 At the Defined stage (Intermediate technology adoption), cannabis cultivation operations have established processes and procedures for managing growing media. The adoption of intermediate technology helps streamline tasks and improve overall efficiency. Various roles in the cultivation facility interact with and manage growing media at this stage:

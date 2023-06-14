@@ -3,6 +3,10 @@ layout: default
 title: "People and Managing Diseases and Pest control at Managed stage (Advanced technology adoption)"
 ---
 
+---
+layout: default
+title: "People and Managing Diseases and Pest control at Managed stage (Advanced technology adoption)"
+---
 ### People and Managing Diseases and Pest control at Managed stage (Advanced technology adoption)
 
 At the Managed stage (Advanced technology adoption), cannabis cultivation facilities have a robust system in place to manage diseases and pest control. The people involved in these operations work in a highly organized and data-driven environment, making use of advanced technology to streamline processes and make informed decisions. Roles within the cultivation facility that may be involved in managing diseases and pest control include:

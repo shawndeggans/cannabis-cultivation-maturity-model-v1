@@ -3,6 +3,10 @@ layout: default
 title: "People and Managing Radiation or Lighting at Initial stage (Ad hoc)"
 ---
 
+---
+layout: default
+title: "People and Managing Radiation or Lighting at Initial stage (Ad hoc)"
+---
 ### People and Managing Radiation or Lighting at Initial stage (Ad hoc)
 
 At the Initial stage (Ad hoc) of cannabis cultivation maturity, the operations are typically less structured and more reliant on manual labor and individual knowledge. People working at this stage with Radiation or Lighting might face several challenges due to the lack of formal processes, systems, and technology.

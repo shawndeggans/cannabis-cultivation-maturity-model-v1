@@ -3,6 +3,10 @@ layout: default
 title: "People and Managing Rootzone care at Optimizing stage (Cutting-edge technology adoption)"
 ---
 
+---
+layout: default
+title: "People and Managing Rootzone care at Optimizing stage (Cutting-edge technology adoption)"
+---
 ### People and Managing Rootzone care at Optimizing stage (Cutting-edge technology adoption)
 
 As a cannabis cultivation owner in the Optimizing stage (Cutting-edge technology adoption), the operations related to managing Rootzone care involve advanced technologies and highly skilled personnel. People working at this maturity stage have access to cutting-edge tools and systems to ensure optimal Rootzone care, leading to improved overall performance. Roles in the cultivation facility involved in managing Rootzone care at this stage include:

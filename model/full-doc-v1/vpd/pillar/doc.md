@@ -3,6 +3,10 @@ layout: default
 title: "VPD or Vapor Pressure Deficit and the Plant Lifecycle"
 ---
 
+---
+layout: default
+title: "VPD or Vapor Pressure Deficit and the Plant Lifecycle"
+---
 ## VPD or Vapor Pressure Deficit and the Plant Lifecycle
 
 VPD, or Vapor Pressure Deficit, is a measure of the difference between the actual vapor pressure and the saturation vapor pressure in the grow room. It is crucial for maintaining optimal plant growth and development at each stage of the plant life cycle. Here's a brief overview of how VPD relates to each stage:

@@ -3,6 +3,10 @@ layout: default
 title: "People and Managing Canopy Management at Defined stage (Intermediate technology adoption)"
 ---
 
+---
+layout: default
+title: "People and Managing Canopy Management at Defined stage (Intermediate technology adoption)"
+---
 ### People and Managing Canopy Management at Defined stage (Intermediate technology adoption)
 
 At the Defined stage (Intermediate technology adoption) of a cannabis cultivation facility, operations related to Canopy Management are more structured, with established processes and intermediate technology implementation. As a cultivation owner, the roles involved in Canopy Management at this stage may include:

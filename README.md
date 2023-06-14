@@ -3,6 +3,10 @@ layout: default
 title: "cannabis-cultivation-maturity-model-v1"
 ---
 
+---
+layout: default
+title: "cannabis-cultivation-maturity-model-v1"
+---
 # cannabis-cultivation-maturity-model-v1
 This is V1 of the GrowerInTheLoop.com Cannabis Cultivation Maturity Model
 ## What is the GrowerInTheLoop.com Cannabis Cultivation Maturity Model?
@@ -58,8 +62,8 @@ There are no current contribution guidelines. If you would like to contribute, p
 ## How do I contact GrowerInTheLoop.com?
 The same address above will contact GrowerInTheLoop.com, or you can vist the website and sighn up for the newsletter at https://growerintheloop.com/introducing-growerintheloop
 ## We have an introduction to get you acquainted:
-[Introduction to the Maturity Model](intro/growerintheloop-approach.md)
+[Introduction to the Maturity Model]({{ site.baseurl }}{% link intro/growerintheloop-approach.md %})
 ## The maturity model is here:
-[The complete Maturity Model](model/full-doc-v1/maturity-model.md)
+[The complete Maturity Model]({{ site.baseurl }}{% link model/full-doc-v1/maturity-model.md %})
 ## HTML Pages for this project
 You can find HTML versions for this guide under the `docs` directory

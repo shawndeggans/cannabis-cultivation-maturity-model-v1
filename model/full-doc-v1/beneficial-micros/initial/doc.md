@@ -3,6 +3,10 @@ layout: default
 title: "People and Managing Beneficial Microorganisms at Initial stage (Ad hoc)"
 ---
 
+---
+layout: default
+title: "People and Managing Beneficial Microorganisms at Initial stage (Ad hoc)"
+---
 ### People and Managing Beneficial Microorganisms at Initial stage (Ad hoc)
 
 At the Initial stage (Ad hoc) of cannabis cultivation, operations are primarily reactive and lack a structured approach to managing beneficial microorganisms. In this stage, the roles involved in working with or managing beneficial microorganisms may include the following:

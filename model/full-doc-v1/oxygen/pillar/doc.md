@@ -3,6 +3,10 @@ layout: default
 title: "Oxygen and Oxygenation and the Plant Lifecycle"
 ---
 
+---
+layout: default
+title: "Oxygen and Oxygenation and the Plant Lifecycle"
+---
 ## Oxygen and Oxygenation and the Plant Lifecycle
 
 Oxygen and oxygenation play an essential role in various stages of the cannabis plant life cycle. Here's a detailed overview of the role of oxygen in each stage:

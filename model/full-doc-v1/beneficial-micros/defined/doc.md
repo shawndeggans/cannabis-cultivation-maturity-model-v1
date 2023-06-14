@@ -3,6 +3,10 @@ layout: default
 title: "People and Managing Beneficial Microorganisms at Defined stage (Intermediate technology adoption)"
 ---
 
+---
+layout: default
+title: "People and Managing Beneficial Microorganisms at Defined stage (Intermediate technology adoption)"
+---
 ### People and Managing Beneficial Microorganisms at Defined stage (Intermediate technology adoption)
 
 At the Defined stage (Intermediate technology adoption), cannabis cultivation owners and their employees have a more structured approach to managing Beneficial Microorganisms. Roles in the cultivation facility involved in managing Beneficial Microorganisms may include:

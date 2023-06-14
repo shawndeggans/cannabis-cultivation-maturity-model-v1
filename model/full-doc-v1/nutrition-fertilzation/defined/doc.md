@@ -3,6 +3,10 @@ layout: default
 title: "People and Managing Nutrition and Fertilization at Defined stage (Intermediate technology adoption)"
 ---
 
+---
+layout: default
+title: "People and Managing Nutrition and Fertilization at Defined stage (Intermediate technology adoption)"
+---
 ### People and Managing Nutrition and Fertilization at Defined stage (Intermediate technology adoption)
 
 At the Defined stage (Intermediate technology adoption) of cannabis cultivation, the management of Nutrition and Fertilization is more structured, and technology is increasingly integrated into operations. Key roles involved in managing nutrition and fertilization in the cultivation facility include:

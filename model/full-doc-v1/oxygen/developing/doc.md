@@ -3,6 +3,10 @@ layout: default
 title: "People and Managing Oxygen and Oxygenation at Developing stage (Basic digitalization)"
 ---
 
+---
+layout: default
+title: "People and Managing Oxygen and Oxygenation at Developing stage (Basic digitalization)"
+---
 ### People and Managing Oxygen and Oxygenation at Developing stage (Basic digitalization)
 
 At the Developing stage (Basic digitalization) of managing Oxygen and Oxygenation in a cannabis cultivation facility, there is a shift towards adopting digital technology to streamline and optimize operations. Roles involved in managing oxygen and oxygenation at this stage include:

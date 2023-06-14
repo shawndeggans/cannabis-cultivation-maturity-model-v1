@@ -3,6 +3,10 @@ layout: default
 title: "People and Managing Rootzone care at Initial stage (Ad hoc)"
 ---
 
+---
+layout: default
+title: "People and Managing Rootzone care at Initial stage (Ad hoc)"
+---
 ### People and Managing Rootzone care at Initial stage (Ad hoc)
 
 At the Initial stage (Ad hoc) of maturity, cannabis cultivation operations are often unstructured and lack well-defined processes for managing Rootzone care. As a cannabis cultivation owner, it is essential to understand the roles involved and the challenges faced by the people working at this stage.

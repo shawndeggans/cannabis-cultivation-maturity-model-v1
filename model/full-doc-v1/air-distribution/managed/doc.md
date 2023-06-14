@@ -3,6 +3,10 @@ layout: default
 title: "People and Managing Air distribution at Managed stage (Advanced technology adoption)"
 ---
 
+---
+layout: default
+title: "People and Managing Air distribution at Managed stage (Advanced technology adoption)"
+---
 ### People and Managing Air distribution at Managed stage (Advanced technology adoption)
 
 At the Managed stage (Advanced technology adoption), a cannabis cultivation owner can expect a more sophisticated and streamlined approach to air distribution management. Advanced technology adoption enables a more data-driven and automated approach to operations, reducing the workload for some roles while increasing the need for expertise in others.

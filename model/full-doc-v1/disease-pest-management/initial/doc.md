@@ -3,6 +3,10 @@ layout: default
 title: "People and Managing Diseases and Pest control at Initial stage (Ad hoc)"
 ---
 
+---
+layout: default
+title: "People and Managing Diseases and Pest control at Initial stage (Ad hoc)"
+---
 ### People and Managing Diseases and Pest control at Initial stage (Ad hoc)
 
 At the Initial stage (Ad hoc) of maturity in cannabis cultivation, the operations related to managing diseases and pest control are likely unstructured and reactive. People working in this stage might not have well-defined roles and responsibilities, and there may be a lack of proper training and experience in dealing with diseases and pests.

@@ -3,6 +3,10 @@ layout: default
 title: "People and Managing Growing Media at Initial stage (Ad hoc)"
 ---
 
+---
+layout: default
+title: "People and Managing Growing Media at Initial stage (Ad hoc)"
+---
 ### People and Managing Growing Media at Initial stage (Ad hoc)
 
 At the Initial stage (Ad hoc) of the cannabis cultivation maturity model, operations related to managing growing media are informal and unstructured. The people working at this stage may face various challenges due to the lack of standardized procedures, limited resources, and inconsistent practices. Here's a breakdown of the roles involved and the problems they might encounter:

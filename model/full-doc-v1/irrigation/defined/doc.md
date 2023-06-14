@@ -3,6 +3,10 @@ layout: default
 title: "People and Managing Irrigation and Fertigation at Defined stage (Intermediate technology adoption)"
 ---
 
+---
+layout: default
+title: "People and Managing Irrigation and Fertigation at Defined stage (Intermediate technology adoption)"
+---
 ### People and Managing Irrigation and Fertigation at Defined stage (Intermediate technology adoption)
 
 At the Defined stage (Intermediate technology adoption) in a cannabis cultivation facility, operations related to Irrigation and Fertigation become more streamlined and efficient due to the implementation of better technologies and processes. Key roles involved in managing Irrigation and Fertigation at this stage include:

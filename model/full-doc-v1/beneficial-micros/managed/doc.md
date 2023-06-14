@@ -3,6 +3,10 @@ layout: default
 title: "People and Managing Beneficial Microorganisms at Managed stage (Advanced technology adoption)"
 ---
 
+---
+layout: default
+title: "People and Managing Beneficial Microorganisms at Managed stage (Advanced technology adoption)"
+---
 ### People and Managing Beneficial Microorganisms at Managed stage (Advanced technology adoption)
 
 At the Managed stage (Advanced technology adoption), the use of cutting-edge technology allows for more efficient and precise management of Beneficial Microorganisms in a cannabis cultivation facility. The roles involved in working with or managing Beneficial Microorganisms at this stage may include:

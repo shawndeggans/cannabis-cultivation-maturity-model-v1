@@ -12,8 +12,13 @@ def add_front_matter(md_file):
 
         # Construct the front matter
         front_matter = f'---\nlayout: default\ntitle: "{title}"\n---\n\n'
+        
+        # Convert .md links to Jekyll link tags
+        content = re.sub(r'\]\((.*).md\)', r']({{ site.baseurl }}{% link \1.md %})', content)
+
         file.seek(0)
         file.write(front_matter + content)
+        file.truncate()
 
 def main():
     for root, dirs, files in os.walk('.'):

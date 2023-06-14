@@ -3,6 +3,10 @@ layout: default
 title: "People and Managing Water at Developing stage (Basic digitalization)"
 ---
 
+---
+layout: default
+title: "People and Managing Water at Developing stage (Basic digitalization)"
+---
 ### People and Managing Water at Developing stage (Basic digitalization)
 
 At the Developing stage (Basic digitalization), the management of water in a cannabis cultivation facility has undergone a certain degree of digitalization, making the process more streamlined and efficient. Here, we will discuss the roles involved, how these individuals spend their time, and the challenges faced at this maturity level.

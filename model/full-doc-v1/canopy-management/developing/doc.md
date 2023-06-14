@@ -3,6 +3,10 @@ layout: default
 title: "People and Managing Canopy Management at Developing stage (Basic digitalization)"
 ---
 
+---
+layout: default
+title: "People and Managing Canopy Management at Developing stage (Basic digitalization)"
+---
 ### People and Managing Canopy Management at Developing stage (Basic digitalization)
 
 As a cannabis cultivation owner at the Developing stage (Basic digitalization), the adoption of basic digital tools and systems has improved the management of Canopy Management. However, there are still challenges that the people involved in these processes face. The roles involved in Canopy Management at this stage may include:

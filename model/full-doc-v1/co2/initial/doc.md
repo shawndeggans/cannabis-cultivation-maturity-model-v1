@@ -3,6 +3,10 @@ layout: default
 title: "People and Managing Carbon Dioxide at Initial stage (Ad hoc)"
 ---
 
+---
+layout: default
+title: "People and Managing Carbon Dioxide at Initial stage (Ad hoc)"
+---
 ### People and Managing Carbon Dioxide at Initial stage (Ad hoc)
 
 As a cannabis cultivation owner operating at the Initial stage (Ad hoc) maturity level, managing carbon dioxide can present several challenges. In this stage, processes are not yet well-defined, and the facility may not have a clear understanding of the best practices regarding CO2 management. The primary roles involved in CO2 management at this stage may include growers, cultivation technicians, and facility managers.

@@ -3,6 +3,10 @@ layout: default
 title: "People and Managing Growing Media at Developing stage (Basic digitalization)"
 ---
 
+---
+layout: default
+title: "People and Managing Growing Media at Developing stage (Basic digitalization)"
+---
 ### People and Managing Growing Media at Developing stage (Basic digitalization)
 
 As a cannabis cultivation owner, understanding the roles and challenges of people working at the Maturity Stage of Developing stage (Basic digitalization) related to managing Growing Media is important. At this stage, there is a basic level of digitalization, which helps improve some aspects of growing media management, but there are still challenges that staff may face.

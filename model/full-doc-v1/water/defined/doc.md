@@ -3,6 +3,10 @@ layout: default
 title: "People and Managing Water at Defined stage (Intermediate technology adoption)"
 ---
 
+---
+layout: default
+title: "People and Managing Water at Defined stage (Intermediate technology adoption)"
+---
 ### People and Managing Water at Defined stage (Intermediate technology adoption)
 
 As a cannabis cultivation owner considering the Defined stage (Intermediate technology adoption) in relation to managing water, the operations involve multiple roles working together to optimize water management.
