@@ -65,3 +65,5 @@ The same address above will contact GrowerInTheLoop.com, or you can vist the web
 ## The maturity model is here:
 [The complete Maturity Model](model/full-doc-v1/maturity-model.md)
 
+## HTML Version
+We've also created a GitHub page for the maturity model. [HTML Version](https://shawndeggans.github.io/cannabis-cultivation-maturity-model-v1/)
