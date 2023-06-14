@@ -1,13 +1,3 @@
----
-layout: default
-title: "No Title"
----
-
----
-layout: default
-title: "No Title"
----
-
 Radiation or lighting plays a crucial role in the growth and development of cannabis plants throughout their life cycle. Each stage has specific lighting requirements to ensure optimal growth, health, and yield. Here's a breakdown of how lighting relates to each stage of the plant life cycle:
 
 1. Germination: During germination, seeds require a warm, moist environment to sprout. Low light levels or indirect light is sufficient for this stage, as the primary focus is on the development of roots and the initial sprout.

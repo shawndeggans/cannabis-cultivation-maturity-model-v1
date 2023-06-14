@@ -1,12 +1,3 @@
----
-layout: default
-title: "People and Managing Water at Managed stage (Advanced technology adoption)"
----
-
----
-layout: default
-title: "People and Managing Water at Managed stage (Advanced technology adoption)"
----
 ### People and Managing Water at Managed stage (Advanced technology adoption)
 
 At the Managed stage (Advanced technology adoption), cannabis cultivation owners have implemented advanced technologies and systems to manage water effectively. Employees working in this environment have a more streamlined and automated approach to managing water, which can improve efficiency and productivity.
@@ -33,6 +24,7 @@ Despite the advanced technology adoption, there can still be some challenges fac
 4. Training and adaptation: Staff members may need ongoing training to effectively use advanced technology systems and tools, and some individuals may be resistant to change.
 
 To address these challenges, cultivation owners can invest in ongoing staff training, continuously review and update water management strategies, and carefully evaluate the return on investment for advanced technology solutions.
+
 ### Processes and Managing Water at Managed stage (Advanced technology adoption)
 
 At the Managed stage (Advanced technology adoption), processes and procedures related to water management are more streamlined, data-driven, and automated. However, there can still be some organizational problems and issues that a cannabis cultivation facility operations manager may encounter:
@@ -45,6 +37,7 @@ At the Managed stage (Advanced technology adoption), processes and procedures re
 6. Regulatory compliance: Ensuring that water management processes and systems adhere to all relevant regulations and guidelines is crucial. Operations managers must stay informed about any changes in regulations and adjust processes accordingly.
 
 To address these challenges, operations managers should focus on effective communication and collaboration between teams, invest in ongoing staff training, and establish a robust change management process. Additionally, it's essential to maintain a strong focus on data security, system maintenance, and scalability planning to ensure that water management processes continue to operate efficiently and effectively as the organization grows.
+
 ### Data Attributes for Water at Managed stage (Advanced technology adoption)
 
 At the Managed stage (Advanced technology adoption) of water management in a cannabis cultivation facility, the operations manager would likely collect a wide range of data attributes to monitor, analyze, and optimize water usage. Some of these data attributes may include:
@@ -70,6 +63,7 @@ Data systems at this level may include advanced sensor networks, automated irrig
 Data governance at the Managed stage includes setting data collection and storage policies, ensuring data quality and consistency, and establishing data access and security protocols. Compliance with relevant regulations regarding data privacy and security would also be a part of data governance.
 
 Data consumption at this level would involve real-time monitoring, advanced analytics, and reporting tools to provide actionable insights for optimizing water management. Data-driven decisions would be made more frequently, as the facility relies on accurate and up-to-date information to make informed choices related to water usage, irrigation schedules, and nutrient management.
+
 ### Data Events for Water at Managed stage (Advanced technology adoption)
 
 At the Managed stage (Advanced technology adoption) of water management in a cannabis cultivation facility, the operations manager would likely collect various events related to water management to ensure optimal plant growth and resource efficiency. Some of these events may include:
@@ -95,6 +89,7 @@ Automation, notifications, and alerts at this maturity level may include:
 3. Notifications for scheduled maintenance tasks and system performance assessments.
 
 Events can be consumed or published out to consumers through various channels, such as dashboards, mobile applications, and email notifications. This enables stakeholders to make timely, data-driven decisions and respond to events promptly. At this maturity level, events would contribute more frequently to actionable event-driven processes or actions, as the facility relies on accurate and up-to-date information to optimize water management and plant growth.
+
 ### Quantity and Water at Managed stage (Advanced technology adoption)
 
 At the Managed stage (Advanced technology adoption) of water management in a cannabis cultivation facility, the operations manager would be focused on optimizing water usage to improve the quantity of cannabis produced. Water plays a crucial role in determining the overall yield of the plants.
@@ -109,6 +104,7 @@ Some challenges of reporting Quantity for this Maturity Model Stage may include:
 4. External factors: Factors such as pests, diseases, or other environmental conditions can also impact plant growth and yield, complicating the relationship between water management and quantity.
 
 Despite these challenges, the advanced technology adoption at the Managed stage enables the operations manager to monitor and adjust water management strategies in real-time, ultimately contributing to improved quantity and overall facility performance.
+
 ### Quality and Water at Managed stage (Advanced technology adoption)
 
 At the Managed stage (Advanced technology adoption) of water management in a cannabis cultivation facility, the operations manager would be focused on optimizing water usage to improve the quality of cannabis produced. Water plays a vital role in determining the overall quality of the plants, including cannabinoid content, terpene profiles, and appearance.
@@ -124,6 +120,7 @@ Some challenges of reporting Quality for this Maturity Model Stage may include:
 5. External factors: Factors such as pests, diseases, or other environmental conditions can also impact plant quality, complicating the relationship between water management and quality.
 
 Despite these challenges, the advanced technology adoption at the Managed stage enables the operations manager to monitor and adjust water management strategies in real-time, ultimately contributing to improved quality and overall facility performance.
+
 ### Consistency and Water at Managed stage (Advanced technology adoption)
 
 At the Managed stage (Advanced technology adoption) of water management in a cannabis cultivation facility, the operations manager would aim to achieve consistency in the cultivation process to ensure uniformity in product quality, potency, and appearance. Proper water management plays a crucial role in achieving this consistency.
@@ -139,6 +136,7 @@ Some challenges of reporting Consistency for this Maturity Model Stage may inclu
 5. Human factors: Ensuring consistency in the manual tasks performed by the cultivation team, such as plant pruning, training, and harvesting, can be challenging even with advanced technology.
 
 Despite these challenges, the adoption of advanced technology in the Managed stage enables the operations manager to closely monitor and control water management processes, contributing to improved consistency in the cultivation process and ultimately leading to a more uniform and reliable product for consumers.
+
 ### Efficiency at Water at Managed stage (Advanced technology adoption)
 
 At the Managed stage (Advanced technology adoption) of water management in a cannabis cultivation facility, the operations manager aims to optimize water usage, reduce waste, and improve overall operational efficiency. Implementing advanced technology and data-driven decision-making helps to achieve these goals.

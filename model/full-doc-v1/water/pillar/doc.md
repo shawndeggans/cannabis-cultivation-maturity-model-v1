@@ -1,12 +1,3 @@
----
-layout: default
-title: "Water and the Plant Lifecycle"
----
-
----
-layout: default
-title: "Water and the Plant Lifecycle"
----
 ## Water and the Plant Lifecycle
 
 Water is an essential component for the growth and development of cannabis plants throughout their life cycle. It is crucial for various processes, including nutrient uptake, photosynthesis, and maintaining the plant's structure. Here is a detailed breakdown of how water relates to each stage of the cannabis plant's life cycle:

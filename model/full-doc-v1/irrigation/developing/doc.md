@@ -1,12 +1,3 @@
----
-layout: default
-title: "People and Managing  Irrigation and Fertigation at Developing stage (Basic digitalization)"
----
-
----
-layout: default
-title: "People and Managing  Irrigation and Fertigation at Developing stage (Basic digitalization)"
----
 ### People and Managing  Irrigation and Fertigation at Developing stage (Basic digitalization)
 
 At the Developing stage (Basic digitalization), a cannabis cultivation facility is in the process of adopting basic digital tools and solutions to manage Irrigation and Fertigation. While there is some improvement in operations compared to the Initial stage, there are still challenges faced by the people working at this maturity level.
@@ -33,6 +24,7 @@ Problems faced due to the maturity level:
 5. Training and adoption challenges: As the facility adopts digital tools, staff may need to learn new skills and adapt to new processes, which can be time-consuming and challenging.
 
 Despite these challenges, the Developing stage represents an improvement over the Initial stage and a step toward more efficient and data-driven irrigation and fertigation management.
+
 ### Processes and Managing Irrigation and Fertigation at Developing stage (Basic digitalization)
 
 At the Developing stage (Basic digitalization) of a cannabis cultivation facility, processes and procedures related to Irrigation and Fertigation management are transitioning from manual to digital methods. Although there is some improvement compared to the Initial stage, there are still several problems and issues that can be encountered organizationally:
@@ -47,6 +39,7 @@ At the Developing stage (Basic digitalization) of a cannabis cultivation facilit
 8. Scalability and adaptability: Basic digital tools and systems may have limited scalability or adaptability to meet the growing needs and complexities of the cannabis cultivation facility as it expands or as new technologies emerge.
 
 To address these challenges, the facility needs to invest in more advanced digital tools, better training and support for staff, and the development of standardized processes and procedures for Irrigation and Fertigation management. These improvements will help the facility move toward higher maturity levels and enhance the overall efficiency of its operations.
+
 ### Data Attributes for Irrigation and Fertigation at Developing stage (Basic digitalization)
 
 At the Developing stage (Basic digitalization) of a cannabis cultivation facility, data attributes related to Irrigation and Fertigation management will be more structured and organized than at the Initial stage. However, challenges still exist in terms of data collection and governance. Some of the data attributes that may be collected include:
@@ -73,6 +66,7 @@ Data governance at the Developing stage may involve establishing basic data coll
 Data consumption at this level can involve manually reviewing collected data and making decisions based on basic analysis or trends. The frequency of data-driven decisions may be limited by the capabilities of the data systems in place, as well as the availability and quality of data.
 
 To move towards a more mature data management approach, the facility should invest in more advanced data systems, improve data integration, and establish more robust data governance practices. This will enable more effective data-driven decision-making and improve overall Irrigation and Fertigation management.
+
 ### Data Events for Irrigation and Fertigation at Developing stage (Basic digitalization)
 
 At the Developing stage (Basic digitalization) of a cannabis cultivation facility, event data related to Irrigation and Fertigation management would focus on capturing key events that impact plant health and growth. Some events that might be collected include:
@@ -98,6 +92,7 @@ Automation, notifications, and alerts at this maturity level may be limited. Som
 Events can be consumed by the operations manager and other stakeholders through manual review of event logs or basic reporting features within the data systems. These events may contribute to actionable event-driven processes or actions, such as adjusting irrigation schedules or fertilizer dosages, but the frequency and effectiveness of these actions may be limited by the quality and timeliness of event data.
 
 To improve event management, the facility should invest in more advanced event collection systems, increase automation capabilities, and develop more robust alert and notification systems. This will help the facility better respond to events and optimize Irrigation and Fertigation management.
+
 ### Quantity and Irrigation and Fertigation at Developing stage (Basic digitalization)
 
 As a cannabis cultivation facility operations manager at the Developing stage (Basic digitalization), managing Irrigation and Fertigation effectively is crucial for optimizing plant growth and maximizing overall production quantity. At this stage, the use of basic digital tools can help monitor and control irrigation and fertigation events, but some limitations may still exist.
@@ -115,6 +110,7 @@ Challenges of reporting Quantity at this Maturity Model Stage include:
 3. Inconsistency in reporting: Due to the limitations of basic digital tools, reports on irrigation and fertigation effects on quantity may not be as consistent or reliable as those produced with more advanced systems.
 
 To overcome these challenges and improve reporting on Quantity, the facility should consider investing in more advanced data collection systems, increasing data integration, and adopting standardized reporting practices. This will help provide a clearer understanding of the impact of Irrigation and Fertigation on Quantity and support data-driven decision-making for optimizing production.
+
 ### Quality and Irrigation and Fertigation at Developing stage (Basic digitalization)
 
 As a cannabis cultivation facility operations manager at the Developing stage (Basic digitalization), managing Irrigation and Fertigation effectively is essential for ensuring that the quality of the plants remains high. At this stage, basic digital tools can help monitor and control irrigation and fertigation events, but some limitations still exist.
@@ -132,6 +128,7 @@ Challenges of reporting Quality at this Maturity Model Stage include:
 3. Incomplete data: Due to the limitations of basic digital tools, there may be gaps in the data collected, making it difficult to establish a comprehensive understanding of the relationship between irrigation and fertigation practices and plant quality.
 
 To address these challenges and improve reporting on Quality, the facility should consider investing in more advanced data collection systems that can capture a wider range of quality-related data, including both objective and subjective measures. Additionally, it is essential to establish standardized quality assessment criteria to ensure consistent reporting on plant quality and its relationship to irrigation and fertigation practices. This will help support data-driven decision-making for optimizing plant quality and overall production.
+
 ### Consistency and Irrigation and Fertigation at Developing stage (Basic digitalization)
 
 As a cannabis cultivation facility operations manager at the Developing stage (Basic digitalization), managing Irrigation and Fertigation effectively is crucial for ensuring consistency in plant growth and production. At this stage, basic digital tools can help monitor and control irrigation and fertigation events, but limitations still exist.
@@ -149,6 +146,7 @@ Challenges of reporting Consistency at this Maturity Model Stage include:
 3. Varied growth conditions: Even with the use of basic digital tools, variations in growing conditions (such as light, temperature, or humidity) might still lead to inconsistencies in plant growth, making it challenging to isolate the effects of irrigation and fertigation on consistency.
 
 To address these challenges and improve reporting on Consistency, the facility should consider investing in more advanced data collection systems that can capture a wider range of consistency-related data, including more granular information on irrigation and fertigation practices. Additionally, it is essential to establish standardized assessment criteria to ensure consistent reporting on plant growth, health, and production. This will help support data-driven decision-making for optimizing consistency and overall production.
+
 ### Efficiency at Irrigation and Fertigation at Developing stage (Basic digitalization)
 
 As a cannabis cultivation facility operations manager at the Developing stage (Basic digitalization), the use of basic digital tools can help improve efficiency in managing Irrigation and Fertigation. However, this stage still has limitations that can impact the overall efficiency of the operation.

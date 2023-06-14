@@ -1,12 +1,3 @@
----
-layout: default
-title: "Rootzone care and the Plant Lifecycle"
----
-
----
-layout: default
-title: "Rootzone care and the Plant Lifecycle"
----
 ## Rootzone care and the Plant Lifecycle
 
 Rootzone care is crucial throughout the entire plant life cycle, as it directly impacts plant health, growth, and overall yield. Here's how Rootzone care relates to each stage of the plant life cycle:

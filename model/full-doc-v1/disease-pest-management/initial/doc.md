@@ -1,12 +1,4 @@
----
-layout: default
-title: "People and Managing Diseases and Pest control at Initial stage (Ad hoc)"
----
 
----
-layout: default
-title: "People and Managing Diseases and Pest control at Initial stage (Ad hoc)"
----
 ### People and Managing Diseases and Pest control at Initial stage (Ad hoc)
 
 At the Initial stage (Ad hoc) of maturity in cannabis cultivation, the operations related to managing diseases and pest control are likely unstructured and reactive. People working in this stage might not have well-defined roles and responsibilities, and there may be a lack of proper training and experience in dealing with diseases and pests.
@@ -29,6 +21,7 @@ Problems faced at this maturity level:
 4. High risk of contamination and crop loss: The lack of a structured disease and pest control program increases the risk of widespread infestations or diseases, leading to significant crop loss and potential financial repercussions.
 
 In conclusion, at the Initial stage (Ad hoc), the management of diseases and pests in cannabis cultivation is largely reactive and unstructured. People working at this stage face challenges due to limited knowledge, experience, and resources, leading to inefficient practices and a higher risk of crop loss.
+
 ### Processes and Managing Diseases and Pest control at Initial stage (Ad hoc)
 
 At the Initial stage (Ad hoc) of maturity in cannabis cultivation, processes and procedures related to managing diseases and pest control are typically unstructured, informal, and inconsistent. This lack of organization can lead to various problems and issues in the facility.
@@ -42,6 +35,7 @@ At the Initial stage (Ad hoc) of maturity in cannabis cultivation, processes and
 7. Limited ability to scale: The ad hoc nature of processes at this stage can hinder the facility's ability to expand and handle larger-scale operations. As the facility grows, the lack of structured processes can exacerbate existing issues and create new challenges in managing diseases and pests.
 
 In summary, at the Initial stage (Ad hoc) of maturity, the management of diseases and pests in a cannabis cultivation facility is hampered by a lack of formal processes and procedures. This can lead to numerous problems, including inconsistency, inefficiency, poor communication, and difficulty in tracking data, all of which can negatively impact the overall performance and success of the facility.
+
 ### Data Attributes for Diseases and Pest control at Initial stage (Ad hoc)
 
 At the Initial stage (Ad hoc) of maturity, data collection and management for diseases and pest control in a cannabis cultivation facility is likely to be minimal and disorganized. Data attributes that might be collected, although informally and inconsistently, could include:
@@ -69,6 +63,7 @@ Data governance is minimal or non-existent, with no formal processes, roles, or 
 
 Data consumption and contribution to actionable decisions:
 At the Initial stage (Ad hoc), data consumption is limited due to the challenges in collecting, organizing, and analyzing data. The data collected may occasionally contribute to decision-making, but its reliability and consistency are likely to be low, making it difficult to take effective, data-driven actions.
+
 ### Data Events for Diseases and Pest control at Initial stage (Ad hoc)
 
 At the Initial stage (Ad hoc) of maturity, the collection of events related to managing diseases and pest control in a cannabis cultivation facility is likely to be unsystematic and disorganized. Events that might be collected, although informally and inconsistently, could include:
@@ -92,6 +87,7 @@ At this maturity level, automation, notifications, and alerts are minimal or non
 
 Event consumption and contribution to actionable processes or actions:
 Events can be consumed by cultivation facility staff, but the informal and inconsistent nature of event collection and communication makes it challenging to take timely, effective actions. The contribution of events to actionable processes or actions is likely to be minimal due to the lack of structured data and automation. However, at this stage, events may still occasionally contribute to ad hoc decision-making and problem-solving, albeit with limited efficiency and effectiveness.
+
 ### Quantity and Diseases and Pest control at Initial stage (Ad hoc)
 
 At the Initial stage (Ad hoc) of maturity, diseases and pest control can have a significant impact on the quantity of cannabis produced due to the lack of formal processes and procedures for prevention and management. Here's how diseases and pest control affect quantity at this stage and the challenges faced in reporting it:
@@ -106,6 +102,7 @@ Challenges of reporting quantity for this Maturity Model Stage:
 2. Limited visibility: Informal and unstructured record-keeping can hinder visibility into the actual losses incurred due to diseases and pests, making it difficult to gauge the true impact on quantity.
 3. Lack of historical data: The absence of a systematic approach to data collection and analysis means that there is little historical data available to compare and identify trends or patterns, limiting the facility's ability to make informed decisions about improving disease and pest control measures.
 4. Inefficient decision-making: Due to the lack of accurate and reliable data, the operations manager might struggle to make data-driven decisions to address the challenges associated with diseases and pests, further affecting the overall quantity of the cannabis production.
+
 ### Quality and Diseases and Pest control at Initial stage (Ad hoc)
 
 At the Initial stage (Ad hoc) of maturity, diseases and pest control can negatively impact the quality of cannabis produced due to the lack of formal processes and procedures for prevention and management. Here's how diseases and pest control affect quality at this stage and the challenges faced in reporting it:
@@ -120,6 +117,7 @@ Challenges of reporting quality for this Maturity Model Stage:
 2. Limited visibility: Informal and unstructured record-keeping can hinder visibility into the actual effects of diseases and pests on product quality, making it difficult to gauge the true impact and address issues accordingly.
 3. Lack of historical data: The absence of a systematic approach to data collection and analysis means that there is little historical data available to compare and identify trends or patterns, limiting the facility's ability to make informed decisions about improving disease and pest control measures.
 4. Inefficient decision-making: Due to the lack of accurate and reliable data, the operations manager might struggle to make data-driven decisions to address the challenges associated with diseases and pests, further affecting the overall quality of the cannabis production.
+
 ### Consistency and Diseases and Pest control at Initial stage (Ad hoc)
 
 At the Initial stage (Ad hoc) of maturity, diseases and pest control can significantly impact the consistency of cannabis production due to the absence of formal processes and procedures for prevention and management. Here's how diseases and pest control affect consistency at this stage and the challenges faced in reporting it:
@@ -134,6 +132,7 @@ Challenges of reporting consistency for this Maturity Model Stage:
 2. Limited visibility: Informal and unstructured record-keeping can hinder visibility into the actual effects of diseases and pests on product consistency, making it challenging to determine the root cause of inconsistencies and address them effectively.
 3. Lack of historical data: The absence of a systematic approach to data collection and analysis means that there is little historical data available to compare and identify trends or patterns, limiting the facility's ability to improve disease and pest control measures and achieve greater consistency in production.
 4. Inefficient decision-making: Due to the lack of accurate and reliable data, the operations manager might struggle to make data-driven decisions to address the challenges associated with diseases and pests, further affecting the overall consistency of cannabis production.
+
 ### Efficiency at Diseases and Pest control at Initial stage (Ad hoc)
 
 At the Initial stage (Ad hoc) of maturity, diseases and pest control can negatively impact the efficiency of cannabis cultivation due to the lack of formal processes and procedures for prevention and management. Here's how diseases and pest control affect efficiency at this stage and the challenges faced in reporting it:

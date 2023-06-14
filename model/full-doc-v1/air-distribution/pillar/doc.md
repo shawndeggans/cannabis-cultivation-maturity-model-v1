@@ -1,13 +1,3 @@
----
-layout: default
-title: "No Title"
----
-
----
-layout: default
-title: "No Title"
----
-
 Air distribution plays a vital role in the health and growth of cannabis plants throughout their entire life cycle. Let's discuss how air distribution relates to each stage of the plant life cycle:
 
 1. Germination: During germination, cannabis seeds require a humid environment with proper air circulation. Adequate air distribution ensures that the seedlings receive enough oxygen and helps prevent the growth of mold or mildew.

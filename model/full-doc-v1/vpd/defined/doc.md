@@ -1,12 +1,3 @@
----
-layout: default
-title: "People and Managing  VPD at Defined stage (Intermediate technology adoption)"
----
-
----
-layout: default
-title: "People and Managing  VPD at Defined stage (Intermediate technology adoption)"
----
 ### People and Managing  VPD at Defined stage (Intermediate technology adoption)
 
 As a cannabis cultivation owner at the Defined stage (Intermediate technology adoption), the management of VPD is more streamlined and data-driven, leading to improved operational efficiency. People working in the cultivation facility have specific roles and responsibilities related to managing VPD.
@@ -31,6 +22,7 @@ Despite the maturity level of the Defined stage (Intermediate technology adoptio
 2. Technology integration: Ensuring seamless integration of various systems and tools for monitoring and managing VPD can be challenging, and issues may arise in data consistency and accuracy.
 3. Balancing cost and benefits: Investments in technology for VPD management can be costly, and it may be challenging to find the right balance between the benefits of technology and the associated costs.
 4. Staff training: Ensuring that all team members are trained in using the technology and understanding the data it provides can be time-consuming and may require ongoing training as technology and processes evolve.
+
 ### Processes and Managing VPD at Defined stage (Intermediate technology adoption)
 
 As a cannabis cultivation facility operations manager at the Defined stage (Intermediate technology adoption), the processes and procedures related to managing VPD are more structured and data-driven. However, there are still potential problems and issues that can be encountered at this maturity level.
@@ -42,6 +34,7 @@ As a cannabis cultivation facility operations manager at the Defined stage (Inte
 5. Standardizing processes: With the increased focus on data-driven decision-making, it is essential to have standardized processes for data collection and analysis. Developing and implementing these standardized processes can be time-consuming and may require ongoing updates as the technology and industry evolve.
 6. Balancing automation and manual intervention: While technology can improve the efficiency of VPD management, it is crucial not to lose sight of the importance of manual observation and intervention. Striking the right balance between automation and human input can be challenging.
 7. Regulatory compliance: As the facility adopts more advanced technology for VPD management, it is essential to ensure compliance with relevant regulations and industry standards. This may involve additional documentation, reporting, and audits.
+
 ### Data Attributes for VPD at Defined stage (Intermediate technology adoption)
 
 As a cannabis cultivation facility operations manager at the Defined stage (Intermediate technology adoption), the data attributes related to managing VPD become more comprehensive and detailed. Here's a list of data attributes that would likely be collected:
@@ -80,6 +73,7 @@ Data consumption and decision-making:
 At the Defined stage, data is consumed more frequently and is often presented in real-time dashboards and reports, enabling data-driven decision-making. This information can be used to adjust environmental controls, identify trends, and optimize VPD management. Data-driven decisions can be made daily, if not more frequently, to ensure optimal growth conditions and quick response to any potential issues.
 
 In summary, at the Defined stage (Intermediate technology adoption), data attributes related to VPD management are more comprehensive, and data systems are more sophisticated. Data governance plays a crucial role in ensuring data quality and security, and data-driven decisions are made more frequently to optimize VPD management and overall facility performance.
+
 ### Data Events for VPD at Defined stage (Intermediate technology adoption)
 
 As a cannabis cultivation facility operations manager at the Defined stage (Intermediate technology adoption), various events related to managing VPD would be collected. These events can trigger automated responses or notifications to help optimize plant growth and environmental conditions. Some of the events that could be collected include:
@@ -114,6 +108,7 @@ Event consumption and actionable processes:
 Events can be consumed or published to consumers through real-time dashboards, notifications, or reports. Staff members can quickly react to events and adjust environmental controls or address equipment issues as needed. Event-driven processes and actions can occur frequently, sometimes several times a day, to maintain optimal growing conditions and prevent potential problems.
 
 In conclusion, at the Defined stage (Intermediate technology adoption), various VPD-related events are collected, and the event collection systems are more sophisticated. Automation, notifications, and alerts play a significant role in maintaining optimal VPD values, and events contribute frequently to actionable event-driven processes and actions.
+
 ### Quantity and VPD at Defined stage (Intermediate technology adoption)
 
 As a cannabis cultivation facility operations manager at the Defined stage (Intermediate technology adoption), VPD management plays a crucial role in determining the quantity of the final yield. Proper VPD management ensures optimal plant growth and health, ultimately increasing the quantity of cannabis produced.
@@ -132,6 +127,7 @@ Challenges of reporting Quantity for this Maturity Model Stage:
 4. Equipment reliability: Maintaining consistent VPD levels relies on properly functioning equipment (sensors, HVAC systems, etc.). Equipment failures or inaccuracies can impact the ability to report accurate quantity estimates.
 
 In summary, at the Defined stage (Intermediate technology adoption), managing VPD effectively can lead to increased cannabis yield quantity. Challenges related to reporting Quantity at this stage may involve accurate forecasting, data integration, monitoring changes in optimal VPD ranges, and ensuring equipment reliability.
+
 ### Quality and VPD at Defined stage (Intermediate technology adoption)
 
 As a cannabis cultivation facility operations manager at the Defined stage (Intermediate technology adoption), VPD management is crucial for ensuring the quality of the final product. Proper VPD control helps maintain optimal growing conditions, leading to better plant health and, consequently, higher quality cannabis.
@@ -150,6 +146,7 @@ Challenges of reporting Quality for this Maturity Model Stage:
 4. Equipment accuracy: Accurate VPD management relies on properly functioning equipment (sensors, HVAC systems, etc.). Equipment failures or inaccuracies can impact the ability to report quality consistently.
 
 In summary, at the Defined stage (Intermediate technology adoption), managing VPD effectively can lead to higher cannabis quality. Challenges related to reporting Quality at this stage may involve defining quality parameters, accounting for variability between plants, integrating data from various sources, and ensuring equipment accuracy.
+
 ### Consistency and VPD at Defined stage (Intermediate technology adoption)
 
 As a cannabis cultivation facility operations manager at the Defined stage (Intermediate technology adoption), managing VPD effectively is crucial for ensuring consistency in the cannabis production process. Consistency in this context refers to the uniformity of product quality and yield across multiple batches and harvests.
@@ -168,6 +165,7 @@ Challenges of reporting Consistency for this Maturity Model Stage:
 4. Human error: While the Defined stage involves greater adoption of technology, human intervention is still necessary. Inconsistencies in processes, monitoring, or decision-making can impact the consistency of the final product.
 
 In summary, at the Defined stage (Intermediate technology adoption), effective VPD management plays a vital role in ensuring consistency in cannabis production. Challenges related to reporting consistency at this stage may include variability in environmental conditions, equipment accuracy and maintenance, genetic variability, and human error.
+
 ### Efficiency at VPD at Defined stage (Intermediate technology adoption)
 
 As a cannabis cultivation facility operations manager at the Defined stage (Intermediate technology adoption), managing VPD effectively is essential for improving efficiency in the cannabis production process. Efficiency in this context refers to the optimal use of resources to achieve the desired output, such as maximizing yield, minimizing waste, and reducing costs.

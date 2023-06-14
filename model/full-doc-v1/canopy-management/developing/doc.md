@@ -1,12 +1,3 @@
----
-layout: default
-title: "People and Managing Canopy Management at Developing stage (Basic digitalization)"
----
-
----
-layout: default
-title: "People and Managing Canopy Management at Developing stage (Basic digitalization)"
----
 ### People and Managing Canopy Management at Developing stage (Basic digitalization)
 
 As a cannabis cultivation owner at the Developing stage (Basic digitalization), the adoption of basic digital tools and systems has improved the management of Canopy Management. However, there are still challenges that the people involved in these processes face. The roles involved in Canopy Management at this stage may include:
@@ -29,6 +20,7 @@ Problems people can face at this maturity level:
 4. Balancing manual tasks with digital processes: The transition to basic digitalization may require staff to adapt to new tools and systems while still performing manual tasks, leading to potential difficulties in balancing the two.
 
 To address these challenges, it is essential to continue investing in more advanced digital tools and systems, provide training and support for staff, and work towards achieving better standardization and consistency in Canopy Management practices. This will help to improve efficiency, reduce problems faced by staff, and ultimately lead to better outcomes in the cultivation process.
+
 ### Processes and Managing Canopy Management at Developing stage (Basic digitalization)
 
 As a cannabis cultivation facility operations manager at the Developing stage (Basic digitalization), processes and procedures have started to incorporate digital tools and systems, but there are still challenges in managing Canopy Management at this maturity level. Some of the problems and issues that can be encountered organizationally include:
@@ -46,6 +38,7 @@ To address these problems and issues, the operations manager should focus on:
 3. Providing training and support: Offer comprehensive training and support for staff to ensure they can effectively use digital tools and systems for Canopy Management.
 4. Fostering a culture of continuous improvement: Encourage employees to embrace change, adapt to new processes, and continually seek ways to optimize Canopy Management practices.
 5. Developing clear and standardized procedures: Create well-defined procedures and guidelines for Canopy Management tasks to reduce inconsistencies and improve overall performance.
+
 ### Data Attributes for Canopy Management at Developing stage (Basic digitalization)
 
 At the Developing stage (Basic digitalization) of a cannabis cultivation facility, Canopy Management data collection has started to incorporate digital tools, but challenges still exist. As an operations manager, some data attributes that may be collected in relation to Canopy Management include:
@@ -78,6 +71,7 @@ Data consumption and actionable decisions:
 At the Developing stage, data consumption is more frequent than at the Initial stage, with staff having access to digital tools and systems that facilitate data-driven decision-making. However, the limitations in data systems and governance may still restrict the full potential of data-driven insights. Data may contribute to actionable decisions more often than at the Initial stage, but there is still room for improvement in terms of frequency and impact.
 
 To address these challenges, the cultivation facility operations manager should continue to invest in more advanced data systems and tools, further develop data governance policies and procedures, and promote a data-driven culture within the organization.
+
 ### Data Events for Canopy Management at Developing stage (Basic digitalization)
 
 At the Developing stage (Basic digitalization) of a cannabis cultivation facility, event collection related to Canopy Management starts to incorporate digital tools, but challenges remain. As an operations manager, some events that may be collected include:
@@ -107,6 +101,7 @@ Event consumption and actionable processes:
 At the Developing stage, events can be consumed or published through digital tools and systems, facilitating improved communication and collaboration. However, the limitations in event tracking and automation may still restrict the full potential of event-driven processes or actions. Events may contribute more frequently to actionable processes compared to the Initial stage, but there is still room for improvement in terms of frequency and effectiveness.
 
 To address these challenges, the cultivation facility operations manager should continue to invest in more advanced event tracking systems, improve data integration, and develop standardized processes for event monitoring and response.
+
 ### Quantity and Canopy Management at Developing stage (Basic digitalization)
 
 At the Developing stage (Basic digitalization) of a cannabis cultivation facility, Canopy Management starts to have a more significant impact on Quantity due to the introduction of basic digital tools and better organization. However, challenges still exist. As an operations manager, some ways Canopy Management affects Quantity at this stage include:
@@ -122,6 +117,7 @@ Challenges of reporting Quantity at this stage:
 3. Partially integrated systems: Data collected across different systems or tools may not be fully integrated, making it challenging to aggregate and analyze Quantity-related data effectively.
 
 To address these challenges, the cultivation facility operations manager should focus on improving data quality, standardizing measurements and practices, investing in more advanced digital tools with better analysis capabilities, and working on integrating data systems to create a more comprehensive and accurate view of Quantity.
+
 ### Quality and Canopy Management at Developing stage (Basic digitalization)
 
 At the Developing stage (Basic digitalization) of a cannabis cultivation facility, Canopy Management begins to have a more pronounced impact on Quality due to the use of basic digital tools and better-organized processes. However, challenges still persist. As an operations manager, some ways Canopy Management affects Quality at this stage include:
@@ -137,6 +133,7 @@ Challenges of reporting Quality at this stage:
 3. Inconsistent measurement and reporting: Despite some standardization, inconsistencies in measurement techniques and reporting may still exist, leading to challenges in accurately assessing Quality.
 
 To address these challenges, the cultivation facility operations manager should focus on refining quality assessment processes, standardizing measurements and practices, investing in more advanced digital tools with better analysis capabilities, and further integrating data systems to create a more comprehensive and accurate view of Quality.
+
 ### Consistency and Canopy Management at Developing stage (Basic digitalization)
 
 At the Developing stage (Basic digitalization) of a cannabis cultivation facility, Canopy Management begins to have a more significant impact on Consistency due to the use of basic digital tools and better-organized processes. However, challenges still remain. As an operations manager, some ways Canopy Management affects Consistency at this stage include:
@@ -152,6 +149,7 @@ Challenges of reporting Consistency at this stage:
 3. Lack of advanced analytics: Basic digital tools may lack advanced analytics capabilities, making it difficult to identify patterns, trends, or correlations between Canopy Management and Consistency.
 
 To address these challenges, the cultivation facility operations manager should focus on further standardizing Canopy Management practices, improving data collection and documentation processes, investing in more advanced digital tools with better analysis capabilities, and integrating data systems to create a more comprehensive and accurate view of Consistency.
+
 ### Efficiency at Canopy Management at Developing stage (Basic digitalization)
 
 At the Developing stage (Basic digitalization) of a cannabis cultivation facility, Canopy Management practices start to impact Efficiency more significantly due to better organization and the use of basic digital tools. As an operations manager, some ways Canopy Management affects Efficiency at this stage include:

@@ -1,12 +1,3 @@
----
-layout: default
-title: "People and Managing Growing Media at Initial stage (Ad hoc)"
----
-
----
-layout: default
-title: "People and Managing Growing Media at Initial stage (Ad hoc)"
----
 ### People and Managing Growing Media at Initial stage (Ad hoc)
 
 At the Initial stage (Ad hoc) of the cannabis cultivation maturity model, operations related to managing growing media are informal and unstructured. The people working at this stage may face various challenges due to the lack of standardized procedures, limited resources, and inconsistent practices. Here's a breakdown of the roles involved and the problems they might encounter:
@@ -21,6 +12,7 @@ The problems faced by people working with growing media at the Initial stage (Ad
 - Difficulty troubleshooting and resolving issues related to growing media, as there may be no established guidelines or benchmarks to follow.
 - Inefficient use of resources, such as time and money, due to trial and error approaches and the absence of optimized processes.
 - Limited scalability, as ad hoc practices make it challenging to replicate successful outcomes or expand operations to accommodate increased demand.
+
 ### Processes and Managing Growing Media at Initial stage (Ad hoc)
 
 At the Initial stage (Ad hoc) of the cannabis cultivation maturity model, processes and procedures related to managing growing media are unstructured and lack standardization. As a cannabis cultivation facility operations manager, you may encounter various organizational problems and issues due to the ad hoc nature of the processes at this maturity level:
@@ -33,6 +25,7 @@ At the Initial stage (Ad hoc) of the cannabis cultivation maturity model, proces
 6. Compliance risks: A lack of formal processes and documentation can lead to compliance issues, as cultivation facilities are required to adhere to various regulations and industry standards regarding the use of growing media and other aspects of cultivation.
 
 In summary, at the Initial stage (Ad hoc), the unstructured nature of processes and procedures related to managing growing media can lead to inconsistent outcomes, inefficient resource utilization, difficulty in troubleshooting and scaling, and potential compliance risks.
+
 ### Data Attributes for Growing Media at Initial stage (Ad hoc)
 
 At the Initial stage (Ad hoc) of the cannabis cultivation maturity model, data collection related to managing growing media is minimal and unstructured. As a cannabis cultivation facility operations manager, you may face several challenges collecting data at this maturity level:
@@ -48,6 +41,7 @@ At the Initial stage (Ad hoc), the data systems may be simple, consisting of bas
 Data consumption at this level is also limited. Since the data collected is inconsistent and unstructured, it may not be readily available for analysis or decision-making. As a result, data-driven decisions are infrequent and may not significantly impact the management of growing media.
 
 In summary, at the Initial stage (Ad hoc), challenges in collecting data related to growing media include a lack of standardization, limited data attributes, unreliable data systems, poor data governance, and limited data-driven decision-making capabilities.
+
 ### Data Events for Growing Media at Initial stage (Ad hoc)
 
 At the Initial stage (Ad hoc) of the cannabis cultivation maturity model, the event collection related to managing growing media is minimal and unstructured. As a cannabis cultivation facility operations manager, you may face several challenges collecting events at this maturity level:
@@ -62,6 +56,7 @@ At the Initial stage (Ad hoc), event collection systems may consist of basic spr
 Events, if collected, may be consumed or published out to consumers in an ad hoc manner. This could involve sharing information verbally or through informal reports. Since the event data is inconsistent and unstructured, it may not contribute to actionable event-driven processes or actions on a regular basis.
 
 In summary, at the Initial stage (Ad hoc), challenges in collecting events related to growing media include inconsistent event collection, limited event scope, unreliable event collection systems, and a lack of automation, notifications, and alerts. The consumption and sharing of events may be limited, with infrequent contributions to actionable processes or actions.
+
 ### Quantity and Growing Media at Initial stage (Ad hoc)
 
 As a cannabis cultivation facility operations manager, the relationship between growing media and quantity at the Initial stage (Ad hoc) can be significant. The choice and management of growing media can directly impact the overall quantity of cannabis produced. However, due to the ad hoc nature of operations at this stage, several challenges may arise in reporting and optimizing quantity:
@@ -73,6 +68,7 @@ As a cannabis cultivation facility operations manager, the relationship between 
 5. Limited scalability: The ad hoc nature of growing media management at this stage may hinder the facility's ability to scale its operations and increase the overall quantity of cannabis produced.
 
 In summary, growing media can significantly affect the quantity of cannabis produced at the Initial stage (Ad hoc). Challenges in reporting quantity for this Maturity Model Stage may arise from inconsistent growing media management, limited data collection and analysis, poor growing media quality, inadequate monitoring and control, and limited scalability.
+
 ### Quality and Growing Media at Initial stage (Ad hoc)
 
 As a cannabis cultivation facility operations manager, it is crucial to understand the impact of growing media on the quality of cannabis produced at the Initial stage (Ad hoc). The quality of the growing media directly affects the overall health and potency of the cannabis plants. However, reporting and optimizing quality at this stage can present several challenges:
@@ -84,6 +80,7 @@ As a cannabis cultivation facility operations manager, it is crucial to understa
 5. Limited quality control measures: At the Initial stage, the facility may not have robust quality control measures in place to identify and address potential issues with the growing media. This lack of oversight can result in subpar quality in the final product.
 
 In summary, the quality of cannabis produced at the Initial stage (Ad hoc) is significantly affected by the management of growing media. Challenges in reporting quality for this Maturity Model Stage may arise from inconsistent growing media quality, limited data collection and analysis, suboptimal growing media selection, inadequate monitoring and control, and limited quality control measures.
+
 ### Consistency and Growing Media at Initial stage (Ad hoc)
 
 As a cannabis cultivation facility operations manager, understanding the impact of growing media on consistency is essential at the Initial stage (Ad hoc). Consistency refers to the uniformity of the cannabis plants and their final products across different batches. However, at this stage, there are several challenges to achieving and reporting consistency:
@@ -95,6 +92,7 @@ As a cannabis cultivation facility operations manager, understanding the impact 
 5. Limited staff training and experience: At the Initial stage, staff may lack the experience and knowledge to manage growing media effectively. This can result in inconsistent practices across different batches of plants, affecting the uniformity of the final product.
 
 In summary, growing media significantly affects the consistency of cannabis produced at the Initial stage (Ad hoc). Challenges in reporting consistency for this Maturity Model Stage arise from inconsistent growing media quality, limited data collection and analysis, suboptimal growing media selection, inadequate monitoring and control, and limited staff training and experience. Addressing these challenges is crucial for enhancing the consistency of the final product.
+
 ### Efficiency at  Growing Media at Initial stage (Ad hoc)
 
 As a cannabis cultivation facility operations manager, understanding the impact of growing media on efficiency is crucial at the Initial stage (Ad hoc). Efficiency refers to the ability to produce maximum output with minimum input, such as resources, time, and labor. However, at this stage, there are several challenges to achieving and reporting efficiency related to growing media:

@@ -1,12 +1,3 @@
----
-layout: default
-title: "People and Managing Growing Media at Managed stage (Advanced technology adoption)"
----
-
----
-layout: default
-title: "People and Managing Growing Media at Managed stage (Advanced technology adoption)"
----
 ### People and Managing Growing Media at Managed stage (Advanced technology adoption)
 
 At the Managed stage (Advanced technology adoption), cannabis cultivation facilities have integrated advanced technology and automated systems into their operations, streamlining the management of growing media. This stage focuses on continuous improvement and efficient resource utilization.
@@ -34,6 +25,7 @@ Problems faced by people at this maturity level:
 5. Keeping up with innovation: As technology continues to evolve, staying up-to-date with the latest advancements and best practices can be challenging and require continuous learning and adaptation.
 
 By addressing these challenges, cannabis cultivation facilities at the Managed stage can continue to optimize their growing media management practices, improve resource efficiency, and maintain high-quality production.
+
 ### Processes and Managing Growing Media at Managed stage (Advanced technology adoption)
 
 At the Managed stage (Advanced technology adoption), cannabis cultivation facilities have streamlined processes and procedures for managing growing media, with advanced technology systems and automation playing a significant role. However, there can still be organizational problems and issues that need to be addressed.
@@ -48,6 +40,7 @@ At the Managed stage (Advanced technology adoption), cannabis cultivation facili
 8. Continuous improvement: The Managed stage emphasizes ongoing improvement and optimization, which requires a commitment to monitoring and evaluating processes, technology, and performance. This can be resource-intensive and requires a strong focus on innovation and adaptability.
 
 By addressing these organizational problems and issues, cannabis cultivation facilities at the Managed stage can continue to optimize their growing media management practices, improve resource efficiency, and maintain high-quality production.
+
 ### Data Attributes for Growing Media at Managed stage (Advanced technology adoption)
 
 At the Managed stage (Advanced technology adoption), cannabis cultivation facilities utilize advanced technology to collect and manage data related to growing media. Data attributes that are likely collected at this maturity level include:
@@ -78,6 +71,7 @@ Data governance at the Managed stage involves establishing and enforcing policie
 Data consumption and actionable decisions:
 
 At this maturity level, data is likely consumed regularly by various roles within the organization, from cultivation facility managers to agronomists and data analysts. Advanced analytics and visualization tools are used to gain insights and inform decision-making. Data-driven decisions are made frequently, allowing for continuous optimization and improvement of growing media management and overall operations.
+
 ### Data Events for Growing Media at Managed stage (Advanced technology adoption)
 
 At the Managed stage (Advanced technology adoption), cannabis cultivation facilities collect various events related to managing growing media, utilizing advanced technology and automation systems. Events that are likely collected at this maturity level include:
@@ -107,6 +101,7 @@ At this maturity level, automated systems can trigger notifications and alerts b
 Event consumption and actionable processes:
 
 Events are consumed by various stakeholders, such as facility managers, agronomists, and data analysts, through real-time monitoring systems or regular reports. Advanced analytics and visualization tools enable staff to identify patterns, trends, and correlations, informing data-driven decisions and actions. Events contribute to actionable processes regularly, allowing for continuous optimization and improvement in growing media management and overall operations.
+
 ### Quantity and Growing Media at Managed stage (Advanced technology adoption)
 
 At the Managed stage (Advanced technology adoption), growing media management has a significant impact on the quantity of cannabis produced. By leveraging advanced technology and sophisticated systems, cultivation facilities can optimize the growing media, resulting in higher yields and improved plant health.
@@ -124,6 +119,7 @@ Challenges of reporting Quantity at this maturity level:
 3. Attribution of quantity improvements: Quantifying the specific impact of growing media management on overall yield improvements can be complex, given the various factors influencing plant growth and development.
 
 Despite these challenges, the Managed stage allows for more precise reporting of quantity, with the potential for significant improvements in cannabis production due to optimized growing media management.
+
 ### Quality and Growing Media at Managed stage (Advanced technology adoption)
 
 At the Managed stage (Advanced technology adoption), growing media management plays a crucial role in determining the quality of cannabis produced. Advanced technology allows cultivation facilities to maintain optimal growing conditions, resulting in plants with improved cannabinoid profiles, terpene content, and overall appearance.
@@ -141,6 +137,7 @@ Challenges of reporting Quality at this maturity level:
 3. Isolating the impact of growing media: Attributing specific quality improvements to growing media management can be complex, given the various factors that influence cannabis quality.
 
 Despite these challenges, the Managed stage offers more precise control over growing media parameters, leading to enhanced quality in cannabis products due to the optimized growing media management.
+
 ### Consistency and Growing Media at Managed stage (Advanced technology adoption)
 
 At the Managed stage (Advanced technology adoption), growing media management plays a significant role in ensuring consistency in cannabis production. Advanced technology allows cultivation facilities to maintain stable and uniform growing conditions, resulting in a consistent product output in terms of potency, terpene profile, and overall appearance.
@@ -158,6 +155,7 @@ Challenges of reporting Consistency at this maturity level:
 3. Isolating the impact of growing media: Assessing the specific influence of growing media management on product consistency can be difficult, given the numerous factors that can impact cannabis growth and development.
 
 Despite these challenges, the Managed stage allows for greater control over growing media parameters, resulting in improved consistency in cannabis products due to the advanced technology used in growing media management.
+
 ### Efficiency at Growing Media at Managed stage (Advanced technology adoption)
 
 At the Managed stage (Advanced technology adoption), growing media management plays a crucial role in improving the efficiency of a cannabis cultivation facility. Advanced technology allows for better monitoring and control of growing media parameters, leading to optimized resource utilization, reduced waste, and improved yield.

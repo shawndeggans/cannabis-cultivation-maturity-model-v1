@@ -1,12 +1,3 @@
----
-layout: default
-title: "People and Managing Oxygen and Oxygenation at Developing stage (Basic digitalization)"
----
-
----
-layout: default
-title: "People and Managing Oxygen and Oxygenation at Developing stage (Basic digitalization)"
----
 ### People and Managing Oxygen and Oxygenation at Developing stage (Basic digitalization)
 
 At the Developing stage (Basic digitalization) of managing Oxygen and Oxygenation in a cannabis cultivation facility, there is a shift towards adopting digital technology to streamline and optimize operations. Roles involved in managing oxygen and oxygenation at this stage include:
@@ -29,6 +20,7 @@ Despite the adoption of basic digitalization, challenges may still arise for the
 4. Limited automation and integration: At this stage, automation may still be limited, and systems may not be fully integrated. This can result in manual intervention and coordination between different departments, which can be time-consuming and error-prone.
 
 In summary, at the Developing stage (Basic digitalization), the adoption of digital technology to manage Oxygen and Oxygenation has improved operations but still presents challenges, including inadequate digital systems, training and adaptation, data management and interpretation, and limited automation and integration.
+
 ### Processes and Managing Oxygen and Oxygenation at Developing stage (Basic digitalization)
 
 As a cannabis cultivation facility operations manager at the Developing stage (Basic digitalization), processes and procedures are gradually becoming more streamlined, thanks to the implementation of digital tools and systems. However, there are still challenges that can arise organizationally, especially related to managing Oxygen and Oxygenation:
@@ -42,6 +34,7 @@ As a cannabis cultivation facility operations manager at the Developing stage (B
 7. Training and skill gaps: Employees may require additional training to effectively use the digital tools and systems implemented at this stage. Skill gaps may also arise as the facility transitions towards more advanced digital technologies.
 
 In summary, at the Developing stage (Basic digitalization), while processes and procedures are beginning to benefit from the implementation of digital tools and systems, there are still challenges organizationally, such as incomplete digital transformation, standardization issues, limited scalability, data silos, integration issues, resource allocation, and training and skill gaps. These factors can impact the efficiency and effectiveness of managing Oxygen and Oxygenation within the facility.
+
 ### Data Attributes for Oxygen and Oxygenation at Developing stage (Basic digitalization)
 
 As a cannabis cultivation facility operations manager at the Developing stage (Basic digitalization), data attributes collected in relation to managing Oxygen and Oxygenation may include:
@@ -67,6 +60,7 @@ Data governance at this level may be less formalized, with limited policies and 
 Data consumption at this level may be limited to basic reporting and analysis, with data-driven decisions made less frequently due to the lack of advanced analytics capabilities. However, as the facility continues to digitalize and improve its data systems, the frequency and effectiveness of data-driven decision-making will likely increase.
 
 In summary, at the Developing stage (Basic digitalization), data attributes related to Oxygen and Oxygenation management are collected through a combination of manual and digital methods. Challenges faced at this maturity level include partial digitalization, data integration, data governance, and limited analytics capabilities. The data systems, governance, and consumption at this level are still evolving, with data-driven decision-making contributing to operations on a limited basis.
+
 ### Data Events for Oxygen and Oxygenation at Developing stage (Basic digitalization)
 
 As a cannabis cultivation facility operations manager at the Developing stage (Basic digitalization), the events that would likely be collected in relation to managing Oxygen and Oxygenation may include:
@@ -90,6 +84,7 @@ Automation, notifications, and alerts at this maturity level may be limited. Som
 Events can be consumed or published out to consumers at this level through manual reports, emails, or other basic communication methods. The frequency of event-driven processes or actions may be limited due to the challenges in collecting and analyzing event data at this stage.
 
 In summary, at the Developing stage (Basic digitalization), the event collection for Oxygen and Oxygenation management is limited in automation and integration, with basic monitoring systems in place. Challenges faced at this maturity level include limited automation, incomplete integration, and a reactive approach to event management. The event-driven processes and actions at this stage may be less frequent and not as proactive as those at more advanced maturity levels.
+
 ### Quantity and Oxygen and Oxygenation at Developing stage (Basic digitalization)
 
 As a cannabis cultivation facility operations manager, managing Oxygen and Oxygenation at the Developing stage (Basic digitalization) can significantly impact the Quantity of the cannabis produced. Proper oxygen levels contribute to healthy plant growth, better nutrient absorption, and improved resistance to pests and diseases, ultimately leading to increased yields.
@@ -103,6 +98,7 @@ Challenges of reporting Quantity for the Developing stage (Basic digitalization)
 5. Reactive approach: Facilities at this maturity level may still have a more reactive approach to managing oxygen levels, addressing issues after they've affected the quantity of the final product, rather than proactively monitoring and optimizing oxygen levels.
 
 In summary, at the Developing stage (Basic digitalization), the impact of Oxygen and Oxygenation on Quantity can be challenging to manage and report due to limited monitoring and control, incomplete data integration, lack of advanced analytics, insufficient automation, and a reactive approach to oxygen management. These challenges can affect the overall quantity of cannabis produced and make it difficult to accurately report the impact of oxygen and oxygenation on Quantity.
+
 ### Quality and Oxygen and Oxygenation at Developing stage (Basic digitalization)
 
 As a cannabis cultivation facility operations manager, managing Oxygen and Oxygenation at the Developing stage (Basic digitalization) can have a significant impact on the Quality of the cannabis produced. Proper oxygen levels are essential for maintaining healthy plant growth, nutrient uptake, and resistance to pests and diseases, all of which contribute to the quality of the final product.
@@ -116,6 +112,7 @@ Challenges of reporting Quality for the Developing stage (Basic digitalization) 
 5. Reactive approach: Facilities at this maturity level may still have a more reactive approach to managing oxygen levels, addressing issues after they've affected the quality of the final product, rather than proactively monitoring and optimizing oxygen levels.
 
 In summary, at the Developing stage (Basic digitalization), the impact of Oxygen and Oxygenation on Quality can be challenging to manage and report due to limited monitoring and control, incomplete data integration, lack of advanced analytics, insufficient automation, and a reactive approach to oxygen management. These challenges can affect the overall quality of cannabis produced and make it difficult to accurately report the impact of oxygen and oxygenation on Quality.
+
 ### Consistency and Oxygen and Oxygenation at Developing stage (Basic digitalization)
 
 As a cannabis cultivation facility operations manager, managing Oxygen and Oxygenation at the Developing stage (Basic digitalization) can significantly impact the Consistency of the cannabis produced. Proper oxygen levels are crucial for maintaining stable plant growth and development, which directly affects the uniformity of the final product.
@@ -129,6 +126,7 @@ Challenges of reporting Consistency at the Developing stage (Basic digitalizatio
 5. Difficulty in tracking and reporting: The lack of sophisticated tracking and reporting systems may make it challenging to accurately report and analyze consistency data. This can hinder the ability to identify areas for improvement and implement changes that could enhance consistency.
 
 In summary, at the Developing stage (Basic digitalization), the impact of Oxygen and Oxygenation on Consistency can be challenging to manage due to limited monitoring and control systems, incomplete data integration, insufficient automation, a reactive approach, and difficulty in tracking and reporting. These challenges can contribute to inconsistent cannabis quality and make it challenging to report Consistency accurately.
+
 ### Efficiency at Oxygen and Oxygenation at Developing stage (Basic digitalization)
 
 As a cannabis cultivation facility operations manager, managing Oxygen and Oxygenation at the Developing stage (Basic digitalization) can have a significant impact on Efficiency in the production process. Proper oxygen levels and oxygenation contribute to healthy plant growth and can affect resource utilization, labor requirements, and energy consumption.

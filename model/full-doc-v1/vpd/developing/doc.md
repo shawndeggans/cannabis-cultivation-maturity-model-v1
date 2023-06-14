@@ -1,12 +1,3 @@
----
-layout: default
-title: "People and Managing VPD at Developing stage (Basic digitalization)"
----
-
----
-layout: default
-title: "People and Managing VPD at Developing stage (Basic digitalization)"
----
 ### People and Managing VPD at Developing stage (Basic digitalization)
 
 As a cannabis cultivation owner considering the Developing stage (Basic digitalization) for managing VPD, the operations involve more digital tools and better organization compared to the Initial stage (Ad hoc). At this maturity stage, the roles involved in VPD management include growers, cultivation technicians, and operations managers.
@@ -14,6 +5,7 @@ As a cannabis cultivation owner considering the Developing stage (Basic digitali
 1. Growers: At the Developing stage, growers are using basic digital tools such as spreadsheets and simple software applications to track and manage VPD. They spend their time monitoring environmental conditions, adjusting equipment, and inputting data into the digital tools. Growers may face challenges in coordinating with other team members and managing multiple data sources due to the limited capabilities of basic digital tools.
 2. Cultivation technicians: Cultivation technicians assist growers in managing VPD by installing and maintaining environmental sensors, calibrating equipment, and troubleshooting issues. They may spend their time ensuring the accuracy of the digital tools and addressing any equipment-related problems. Technicians may face challenges in keeping up with the emerging technologies and adjusting to the new digital tools being adopted at this stage.
 3. Operations managers: At the Developing stage, operations managers are responsible for overseeing the entire cultivation process, including VPD management. They spend their time analyzing data from the digital tools, making decisions based on the collected data, and coordinating with the growers and cultivation technicians. Operations managers may face challenges in effectively interpreting the data from the basic digital tools and making data-driven decisions due to the limited analytical capabilities of the software being used.
+
 ### Processes and Managing VPD at Developing stage (Basic digitalization)
 
 As a cannabis cultivation facility operations manager at the Developing stage (Basic digitalization), processes and procedures related to managing VPD are more organized compared to the Initial stage (Ad hoc), with the adoption of basic digital tools. However, there are still some problems and issues that can be encountered organizationally, especially in managing VPD:
@@ -24,6 +16,7 @@ As a cannabis cultivation facility operations manager at the Developing stage (B
 4. Lack of real-time monitoring: Basic digital tools might not support real-time monitoring of VPD and other environmental parameters, which can hinder quick decision-making and timely adjustments to the cultivation environment.
 5. Inefficient communication and collaboration: At the Developing stage, there may still be room for improvement in communication and collaboration among team members. Limited integration between digital tools and a lack of advanced collaboration features can result in slower response times and less effective VPD management.
 6. Training and adoption: Introducing digital tools at this stage may require additional training and support for staff to effectively adopt and utilize these tools. This can cause temporary disruptions in the cultivation process and may take time to fully integrate into daily operations.
+
 ### Data Attributes for VPD at Developing stage (Basic digitalization)
 
 As a cannabis cultivation facility operations manager at the Developing stage (Basic digitalization), the data attributes collected in relation to managing VPD would likely include:
@@ -48,6 +41,7 @@ Data systems at this level may consist of spreadsheets, simple databases, and ba
 Data governance at this level may be relatively simple, with some basic rules and procedures in place to ensure data quality and consistency. Roles and responsibilities for data management may not be clearly defined, and there may be limited oversight of data practices.
 
 Data consumption at this level would primarily involve reviewing data in spreadsheets or basic software applications. The frequency of data consumption and its contribution to actionable data-driven decisions may vary depending on the quality, consistency, and comprehensiveness of the data collected. At this maturity level, data-driven decisions may still be relatively infrequent, as the focus is on transitioning from manual processes to digital tools.
+
 ### Data Events for VPD at Developing stage (Basic digitalization)
 
 As a cannabis cultivation facility operations manager at the Developing stage (Basic digitalization), the events likely to be collected in relation to managing VPD may include:
@@ -70,6 +64,7 @@ Event collection systems at this level may consist of basic software application
 Automation, notifications, and alerts at this maturity level may be limited. Some basic alerts or notifications could be set up based on manually defined thresholds or conditions, but more advanced automation or real-time notifications might not be possible with basic digital tools.
 
 Events can be consumed or published out to consumers through email, messaging apps, or basic software applications. The frequency of event-driven processes or actions may still be limited, as the focus at this maturity level is on transitioning from manual processes to digital tools. However, the increased use of digital tools can help improve the responsiveness and effectiveness of event-driven actions compared to the Initial stage (Ad hoc).
+
 ### Quantity and VPD at Developing stage (Basic digitalization)
 
 As a cannabis cultivation facility operations manager at the Developing stage (Basic digitalization), VPD plays a significant role in influencing Quantity. Proper management of VPD contributes to better growth conditions for the plants, resulting in improved yields.
@@ -87,6 +82,7 @@ Challenges of reporting Quantity at this maturity stage include:
 3. Lack of advanced analytics: At this stage, advanced analytics tools might not be available to identify trends or patterns in VPD and quantity data, potentially affecting the understanding of the relationship between VPD and yield.
 
 Despite these challenges, the Developing stage (Basic digitalization) offers improvements in VPD management and quantity reporting compared to the Initial stage (Ad hoc). The introduction of digital tools helps streamline data collection and provides better insights into the relationship between VPD and plant quantity.
+
 ### Quality and VPD at Developing stage (Basic digitalization)
 
 As a cannabis cultivation facility operations manager at the Developing stage (Basic digitalization), VPD has a substantial impact on the Quality of the cannabis plants. Proper VPD management is essential for maintaining optimal growth conditions, ultimately affecting the quality of the final product.
@@ -104,6 +100,7 @@ Challenges of reporting Quality at this maturity stage include:
 3. Lack of advanced analytics: Advanced analytics tools may not be available at this stage, limiting the ability to identify trends or patterns in VPD and quality data.
 
 Despite these challenges, the Developing stage (Basic digitalization) offers improvements in VPD management and quality reporting compared to the Initial stage (Ad hoc). The use of digital tools helps streamline data collection and provides better insights into the relationship between VPD and plant quality. As the cultivation facility continues to mature, further advancements in data analysis and monitoring systems will further enhance VPD management and its impact on cannabis quality.
+
 ### Consistency and VPD at Developing stage (Basic digitalization)
 
 As a cannabis cultivation facility operations manager at the Developing stage (Basic digitalization), VPD plays a critical role in achieving Consistency in the growth and quality of cannabis plants. Proper VPD management helps to create a stable environment, leading to uniform plant growth across different batches and cultivation cycles.
@@ -121,6 +118,7 @@ Challenges of reporting Consistency at this maturity stage include:
 3. Lack of advanced monitoring systems: The Developing stage (Basic digitalization) may not have advanced monitoring systems in place, which can make it challenging to track and maintain consistent VPD levels across the entire cultivation area.
 
 Despite these challenges, the Developing stage (Basic digitalization) offers improvements in VPD management and consistency reporting compared to the Initial stage (Ad hoc). The use of digital tools and basic data tracking systems provides a better understanding of VPD's impact on plant consistency. As the cultivation facility continues to mature, further advancements in monitoring and data analysis will help to optimize VPD management and achieve higher levels of consistency in cannabis growth and quality.
+
 ### Efficiency at VPD  at Developing stage (Basic digitalization)
 
 As a cannabis cultivation facility operations manager at the Developing stage (Basic digitalization), VPD plays an essential role in the Efficiency of the cultivation process. Proper VPD management can lead to optimal plant growth and resource utilization, resulting in better overall efficiency.

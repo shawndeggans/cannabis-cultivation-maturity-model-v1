@@ -1,12 +1,3 @@
----
-layout: default
-title: "People and Managing Water at Initial stage (Ad hoc)"
----
-
----
-layout: default
-title: "People and Managing Water at Initial stage (Ad hoc)"
----
 ### People and Managing Water at Initial stage (Ad hoc)
 
 At the Initial stage (Ad hoc) of the maturity model, cannabis cultivation operations typically lack formalized processes and standardization. People working in such cultivation facilities often face various challenges related to water management.
@@ -30,6 +21,7 @@ Problems faced at this maturity level:
 3. Limited knowledge and expertise: People working at this maturity level might not have extensive experience or training in cannabis cultivation, resulting in suboptimal watering practices and a lack of understanding of the plant's specific water needs at different growth stages.
 4. Inefficient water usage: Without advanced irrigation systems or proper water management techniques, cultivators at the Initial stage may use water inefficiently, leading to increased operational costs and potentially negative environmental impacts.
 5. Difficulty in identifying and addressing water-related issues: The lack of formalized processes and limited knowledge can make it challenging for individuals at this stage to diagnose and address water-related problems, potentially leading to reduced plant health, yield, and overall quality.
+
 ### Processes and Managing Water at Initial stage (Ad hoc)
 
 At the Initial stage (Ad hoc) of the maturity model, a cannabis cultivation facility operations manager would face various challenges related to water management due to the lack of formalized processes and procedures. Here are some problems and issues that can arise organizationally:
@@ -41,6 +33,7 @@ At the Initial stage (Ad hoc) of the maturity model, a cannabis cultivation faci
 5. Reactive problem-solving: The absence of formalized processes at this maturity level can lead to a reactive approach to problem-solving. This means that water-related issues may not be identified or addressed until they have already caused significant damage to the plants, resulting in reduced yield and quality.
 6. Difficulty scaling operations: Managing water efficiently becomes increasingly challenging as the size of the cultivation facility grows. Without standardized processes in place, it can be difficult to scale operations effectively, potentially limiting the growth and success of the business.
 7. Compliance risks: In some regions, cannabis cultivation facilities are required to adhere to specific water management regulations. The lack of formalized processes and procedures at this stage may increase the risk of non-compliance, which could result in penalties or even operational shutdowns.
+
 ### Data Attributes for Water at Initial stage (Ad hoc)
 
 At the Initial stage (Ad hoc) of the maturity model, data collection related to water management in a cannabis cultivation facility is likely to be limited and unstructured. Here are some potential data attributes that might be collected, along with the challenges and characteristics of data systems and governance at this level:
@@ -67,6 +60,7 @@ Data governance is likely to be minimal at this stage, with little to no formal 
 
 Data Consumption and Decision-making:
 Due to the challenges in data collection and the limitations of data systems, data-driven decision-making may be infrequent at this level. The available data may not be easily accessible or digestible, making it difficult for the operations manager and other team members to use the information to make informed decisions. As a result, decision-making may rely more on intuition and experience rather than data analysis.
+
 ### Data Events for Water at Initial stage (Ad hoc)
 
 At the Initial stage (Ad hoc) of the maturity model, the collection of events related to water management in a cannabis cultivation facility is likely to be limited, unstructured, and manual. Here are some potential events that might be collected, along with the challenges and characteristics of event collection systems at this level:
@@ -91,6 +85,7 @@ Due to the manual and unstructured nature of event collection at this stage, aut
 
 Event Consumption and Actions:
 Given the limitations of event collection systems and the lack of automation, events may not be easily consumed or published out to consumers at this level. As a result, event-driven processes or actions may be infrequent and rely more on the experience and intuition of the operations manager and team members, rather than data-driven insights.
+
 ### Quantity and Water at Initial stage (Ad hoc)
 
 At the Initial stage (Ad hoc), water management practices have a significant impact on the quantity of cannabis produced in a cultivation facility. Since the processes are not standardized, and the information available is limited, the impact of water on quantity can be unpredictable. Here are some of the ways water can affect quantity and the challenges of reporting quantity at this maturity level:
@@ -106,6 +101,7 @@ Challenges in reporting Quantity at the Initial stage:
 3. Lack of benchmarks: Without standardized processes and data to compare against, it is difficult to determine whether the quantity produced is within an acceptable range or whether improvements in water management could lead to higher yields.
 
 Overall, the Initial stage (Ad hoc) presents several challenges in managing water and reporting its impact on the quantity of cannabis produced. Improving water management practices and implementing more structured data collection methods could help cultivation facilities to better understand and optimize the relationship between water and quantity.
+
 ### Quality and Water at Initial stage (Ad hoc)
 
 At the Initial stage (Ad hoc), water management practices can significantly influence the quality of cannabis produced in a cultivation facility. Due to the lack of standardized processes and limited information available, the impact of water on quality can be inconsistent and challenging to quantify. Here are some ways water can affect quality and the challenges of reporting quality at this maturity level:
@@ -122,6 +118,7 @@ Challenges in reporting Quality at the Initial stage:
 4. Lack of benchmarks: Without standardized processes and data to compare against, it is challenging to determine whether the quality produced is within an acceptable range or whether improvements in water management could lead to better-quality cannabis.
 
 In summary, the Initial stage (Ad hoc) presents several challenges in managing water and reporting its impact on the quality of cannabis produced. Implementing more structured water management practices and data collection methods could help cultivation facilities better understand and optimize the relationship between water and cannabis quality.
+
 ### Consistency and Water at Initial stage (Ad hoc)
 
 At the Initial stage (Ad hoc), water management practices can have a significant impact on the consistency of cannabis produced in a cultivation facility. Due to the lack of standardized processes and limited information available, maintaining consistency in the plants can be difficult. Here are some ways water can affect consistency and the challenges of reporting consistency at this maturity level:
@@ -138,6 +135,7 @@ Challenges in reporting Consistency at the Initial stage:
 4. Lack of benchmarks: Without standardized processes and data to compare against, it is difficult to determine if the consistency of cannabis produced is within an acceptable range or if improvements in water management could lead to more consistent results.
 
 In summary, the Initial stage (Ad hoc) presents several challenges in managing water and reporting its impact on the consistency of cannabis produced. Implementing more structured water management practices and data collection methods could help cultivation facilities better understand and optimize the relationship between water and cannabis consistency.
+
 ### Efficiency at Water at Initial stage (Ad hoc)
 
 At the Initial stage (Ad hoc), water management practices can significantly impact the efficiency of a cannabis cultivation facility. The lack of standardized processes and data-driven decision-making often results in suboptimal water usage and resource allocation. Here are some ways water can affect efficiency and the challenges of reporting efficiency at this maturity level:

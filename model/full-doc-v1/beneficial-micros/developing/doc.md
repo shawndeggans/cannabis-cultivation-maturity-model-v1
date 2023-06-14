@@ -1,12 +1,3 @@
----
-layout: default
-title: "People and Managing Beneficial Microorganisms at Developing stage (Basic digitalization)"
----
-
----
-layout: default
-title: "People and Managing Beneficial Microorganisms at Developing stage (Basic digitalization)"
----
 ### People and Managing Beneficial Microorganisms at Developing stage (Basic digitalization)
 
 At the Developing stage (Basic digitalization), cannabis cultivation facilities have begun to implement basic digital tools and processes for managing Beneficial Microorganisms. The operations for people working at this maturity stage will be more structured than at the Initial stage (Ad hoc), but still have room for improvement.
@@ -33,6 +24,7 @@ Problems faced by people working at this maturity level:
 4. Insufficient training: Staff may not have received adequate training on the proper use of Beneficial Microorganisms or digital tools, which can result in mistakes and inefficiencies.
 
 At the Developing stage (Basic digitalization), the management of Beneficial Microorganisms is more structured, but there are still challenges related to limited digital tools, knowledge gaps, and staff training.
+
 ### Processes and Managing Beneficial Microorganisms at Developing stage (Basic digitalization)
 
 As a cannabis cultivation facility operations manager at the Developing stage (Basic digitalization), processes and procedures for managing Beneficial Microorganisms are more structured compared to the Initial stage (Ad hoc), but still face various challenges.
@@ -45,6 +37,7 @@ As a cannabis cultivation facility operations manager at the Developing stage (B
 6. Slow adoption of new technology: The organization may face resistance in adopting new digital tools and technology, leading to delays in implementing more efficient processes and procedures for managing Beneficial Microorganisms.
 
 To address these challenges at the Developing stage (Basic digitalization), the cultivation facility operations manager should focus on improving documentation consistency, developing clear SOPs, integrating digital tools, enhancing monitoring and evaluation systems, optimizing pest management strategies, and fostering a culture that embraces technological advancements.
+
 ### Data Attributes for Beneficial Microorganisms at Developing stage (Basic digitalization)
 
 As a cannabis cultivation facility operations manager at the Developing stage (Basic digitalization), data attributes related to managing Beneficial Microorganisms would be more extensive than at the Initial stage. The following data attributes would likely be collected:
@@ -65,6 +58,7 @@ Challenges faced collecting data at this maturity level:
 4. Limited analytics capabilities: The facility may have basic analytical tools that limit the ability to generate actionable insights from the collected data.
 
 At this level, data systems may include spreadsheets, simple databases, or basic software for tracking and managing Beneficial Microorganisms. Data governance may be informal, with limited documentation and standardization. Data can be consumed in the form of reports or basic dashboards, but may not be fully leveraged for data-driven decision-making due to the limitations mentioned above. As the facility matures, there will be a greater need to improve data collection, integration, governance, and analytics capabilities to fully realize the potential of data-driven insights.
+
 ### Data Events for Beneficial Microorganisms at Developing stage (Basic digitalization)
 
 At the Developing stage (Basic digitalization), cannabis cultivation facility operations managers would likely collect the following events related to managing Beneficial Microorganisms:
@@ -83,6 +77,7 @@ Challenges faced collecting these events at this maturity level:
 4. Insufficient analytics capabilities: Limited tools for analyzing event data could restrict the ability to derive meaningful insights and make informed decisions.
 
 Event collection systems at this level might consist of basic digital tools like spreadsheets, databases, or entry-level software designed to track and manage specific events. Automation, notifications, and alerts might be limited, with manual processes required to monitor and respond to events. Events can be consumed or published through simple reports, emails, or basic dashboards, but the frequency of actionable event-driven processes or actions may be limited due to the challenges mentioned above. As the facility advances toward higher maturity stages, more sophisticated systems and tools can be implemented to improve event collection, analysis, and response.
+
 ### Quantity and Beneficial Microorganisms at Developing stage (Basic digitalization)
 
 At the Developing stage (Basic digitalization), Beneficial Microorganisms can influence Quantity by enhancing plant growth, improving nutrient absorption, and protecting plants from pests and diseases. This can lead to higher overall yields and larger harvests. However, there are several challenges in reporting Quantity at this maturity level:
@@ -94,6 +89,7 @@ At the Developing stage (Basic digitalization), Beneficial Microorganisms can in
 5. Variability in microorganism effectiveness: The performance of Beneficial Microorganisms can vary depending on environmental factors, application methods, and strains used. This variability may make it challenging to attribute changes in Quantity directly to the use of Beneficial Microorganisms.
 
 To overcome these challenges, cultivation facility operations managers can invest in more advanced data management systems, increase automation, and implement more robust analytics tools. This will help them better understand the relationship between Beneficial Microorganisms and Quantity, enabling more accurate reporting and data-driven decision-making.
+
 ### Quality and Beneficial Microorganisms at Developing stage (Basic digitalization)
 
 At the Developing stage (Basic digitalization), Beneficial Microorganisms can influence Quantity by enhancing plant growth, improving nutrient absorption, and protecting plants from pests and diseases. This can lead to higher overall yields and larger harvests. However, there are several challenges in reporting Quantity at this maturity level:
@@ -105,6 +101,7 @@ At the Developing stage (Basic digitalization), Beneficial Microorganisms can in
 5. Variability in microorganism effectiveness: The performance of Beneficial Microorganisms can vary depending on environmental factors, application methods, and strains used. This variability may make it challenging to attribute changes in Quantity directly to the use of Beneficial Microorganisms.
 
 To overcome these challenges, cultivation facility operations managers can invest in more advanced data management systems, increase automation, and implement more robust analytics tools. This will help them better understand the relationship between Beneficial Microorganisms and Quantity, enabling more accurate reporting and data-driven decision-making.
+
 ### Consistency and Beneficial Microorganisms at Developing stage (Basic digitalization)
 
 At the Developing stage (Basic digitalization), Beneficial Microorganisms can contribute to Consistency by maintaining a healthier and more uniform plant growth. They can help create a more stable environment and enhance the plants' ability to withstand stress and adverse conditions. However, there are several challenges in reporting Consistency at this maturity level:
@@ -116,6 +113,7 @@ At the Developing stage (Basic digitalization), Beneficial Microorganisms can co
 5. Lack of standardization: The absence of standardized protocols or guidelines for managing Beneficial Microorganisms can result in inconsistent practices across the cultivation facility.
 
 To address these challenges, cultivation facility operations managers can work to standardize processes, invest in more advanced data management systems, and integrate data from different sources. This will help create a more comprehensive understanding of the relationship between Beneficial Microorganisms and Consistency, allowing for more accurate reporting and better decision-making.
+
 ### Efficiency at Beneficial Microorganisms at Developing stage (Basic digitalization)
 
 At the Developing stage (Basic digitalization), Beneficial Microorganisms can positively impact Efficiency by promoting plant health, nutrient absorption, and resistance to pests and diseases, thus reducing the need for additional inputs like fertilizers and pesticides. However, there are several challenges in reporting Efficiency at this maturity level:

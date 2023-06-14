@@ -1,12 +1,3 @@
----
-layout: default
-title: "People and Managing Radiation or Lighting at Defined stage (Intermediate technology adoption)"
----
-
----
-layout: default
-title: "People and Managing Radiation or Lighting at Defined stage (Intermediate technology adoption)"
----
 ### People and Managing Radiation or Lighting at Defined stage (Intermediate technology adoption)
 
 At the Defined stage (Intermediate technology adoption), the cannabis cultivation facility has established processes, and technology adoption is more advanced than in the previous stages. People working at this maturity stage are more skilled and knowledgeable about managing Radiation or Lighting.
@@ -30,6 +21,7 @@ Problems faced due to the maturity level:
 3. Balancing costs and efficiency: Cultivation owners and managers need to find a balance between investing in more advanced lighting systems and maintaining operational costs.
 
 To address these challenges, continuous training and education should be provided to staff to enhance their skills and knowledge in lighting management. Regularly assessing and upgrading lighting systems can help improve efficiency and reduce operational costs. Moreover, fostering a culture of open communication and collaboration can help identify and resolve potential problems quickly, leading to better overall management of Radiation or Lighting.
+
 ### Processes and Managing Radiation or Lighting at Defined stage (Intermediate technology adoption)
 
 At the Defined stage (Intermediate technology adoption), cannabis cultivation facilities have established processes and procedures for managing Radiation or Lighting. However, there can still be some problems and issues that arise organizationally:
@@ -47,6 +39,7 @@ To address these issues, the cultivation facility operations manager can take th
 3. Assess and upgrade lighting equipment and systems regularly to ensure optimal performance and energy efficiency.
 4. Streamline communication channels and promote collaboration among different roles and departments involved in managing radiation or lighting.
 5. Stay informed about industry regulations and standards, and implement necessary changes in processes and procedures to ensure compliance. Regular audits and assessments can also help in identifying areas that require improvement.
+
 ### Data Attributes for Radiation or Lighting at Defined stage (Intermediate technology adoption)
 
 At the Defined stage (Intermediate technology adoption), cannabis cultivation facilities collect various data attributes related to managing Radiation or Lighting. Some of these data attributes include:
@@ -85,6 +78,7 @@ Data consumption and actionable data-driven decisions at this level:
 3. Decisions may be made based on historical data trends, but real-time adjustments may be less frequent due to limited automation capabilities.
 
 As the facility advances in maturity, data systems, governance, and analytical capabilities will become more sophisticated, allowing for more accurate, real-time, and actionable insights.
+
 ### Data Events for Radiation or Lighting at Defined stage (Intermediate technology adoption)
 
 At the Defined stage (Intermediate technology adoption), cannabis cultivation facilities may collect various events related to managing Radiation or Lighting. Some of these events may include:
@@ -119,6 +113,7 @@ Events can be consumed or published out to consumers at this level through:
 3. Limited integration with other operational tools, such as environmental control systems, for triggering actions or responses to events
 
 At the Defined stage, event-driven processes or actions may be less frequent and may rely more on manual intervention. As the facility advances in maturity, event collection and response systems will become more sophisticated, allowing for more real-time, automated, and actionable insights.
+
 ### Quantity and Radiation or Lighting at Defined stage (Intermediate technology adoption)
 
 At the Defined stage (Intermediate technology adoption), Radiation or Lighting plays a significant role in determining the quantity of cannabis produced. Adequate lighting is essential for healthy plant growth and development, as it directly influences photosynthesis, nutrient uptake, and overall plant metabolism.
@@ -137,6 +132,7 @@ Challenges of reporting Quantity for this Maturity Model Stage:
 4. Lack of benchmarks: The absence of industry benchmarks or best practices may make it difficult to determine if the lighting strategy in place is effective in optimizing quantity.
 
 At the Defined stage, facilities can work on improving their data collection and reporting processes related to Radiation or Lighting to better understand their impact on quantity. As the cultivation facility matures, more sophisticated technologies can be adopted to further optimize lighting conditions and maximize yields.
+
 ### Quality and Radiation or Lighting at Defined stage (Intermediate technology adoption)
 
 At the Defined stage (Intermediate technology adoption), Radiation or Lighting plays a crucial role in determining the quality of cannabis produced. Proper lighting is essential for the development of desirable attributes such as potency, aroma, flavor, and overall appearance of the final product.
@@ -155,6 +151,7 @@ Challenges of reporting Quality for this Maturity Model Stage:
 4. Subjective quality assessment: Quality attributes such as aroma and flavor can be subjective, making it difficult to quantify and report on the impact of lighting on these attributes.
 
 At the Defined stage, facilities should focus on improving their data collection and reporting processes related to Radiation or Lighting to better understand their impact on quality. As the cultivation facility matures, more sophisticated technologies can be adopted to further optimize lighting conditions and enhance the overall quality of cannabis produced.
+
 ### Consistency and Radiation or Lighting at Defined stage (Intermediate technology adoption)
 
 At the Defined stage (Intermediate technology adoption), Radiation or Lighting plays a significant role in ensuring consistency in cannabis cultivation. Consistency refers to the uniformity of cannabis products in terms of potency, quality, and overall appearance across different harvests.
@@ -172,6 +169,7 @@ Challenges of reporting Consistency for this Maturity Model Stage:
 4. Lack of standardization: The absence of standardized procedures and protocols related to Radiation or Lighting management can hinder the ability to maintain and report consistency in cannabis production.
 
 To overcome these challenges and improve consistency, cultivation facilities at the Defined stage should invest in better lighting systems, data collection tools, and reporting processes. This includes adopting more sophisticated lighting technologies, implementing consistent protocols for managing lighting conditions, and utilizing data-driven insights to optimize the growing environment for uniform cannabis production. As the facility progresses through the maturity model, advancements in technology adoption and process improvements will contribute to enhancing consistency in cannabis cultivation.
+
 ### Efficiency at Radiation or Lighting at Defined stage (Intermediate technology adoption)
 
 At the Defined stage (Intermediate technology adoption), Radiation or Lighting plays a crucial role in the efficiency of cannabis cultivation. Efficiency refers to the optimal use of resources, including energy, time, and manpower, to maximize production output and minimize waste.
