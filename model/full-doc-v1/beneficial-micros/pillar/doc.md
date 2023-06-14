@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Beneficial Microorganisms and plant lifecycle"
+---
+
 ## Beneficial Microorganisms and plant lifecycle
 
 Beneficial microorganisms play a crucial role in promoting plant growth and overall health throughout the various stages of the cannabis plant life cycle. Here's a detailed look at how these microorganisms interact with each stage of the plant's life:

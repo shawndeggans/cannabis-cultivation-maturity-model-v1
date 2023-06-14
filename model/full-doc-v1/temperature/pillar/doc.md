@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Temperate and Plant Lifecycle"
+---
+
 ## Temperate and Plant Lifecycle
 
 1. Germination:

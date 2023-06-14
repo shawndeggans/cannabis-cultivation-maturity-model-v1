@@ -1,3 +1,8 @@
+---
+layout: default
+title: "People and Managing Water at Developing stage (Basic digitalization)"
+---
+
 ### People and Managing Water at Developing stage (Basic digitalization)
 
 At the Developing stage (Basic digitalization), the management of water in a cannabis cultivation facility has undergone a certain degree of digitalization, making the process more streamlined and efficient. Here, we will discuss the roles involved, how these individuals spend their time, and the challenges faced at this maturity level.
@@ -22,7 +27,6 @@ Problems faced by people at the Developing stage:
 4. Resistance to change: Staff members may have difficulty adapting to new digital systems and processes, leading to a learning curve and potential resistance.
 
 Overall, the Developing stage (Basic digitalization) represents a step forward in water management for cannabis cultivation facilities. However, staff members may still face challenges due to limited automation, data management issues, and adapting to new systems and processes.
-
 ### Processes and Managing Water at Developing stage (Basic digitalization)
 
 As a cannabis cultivation facility operations manager at the Developing stage (Basic digitalization), various processes and procedures are in place to manage water more efficiently. However, there are still some problems and issues that may arise organizationally at this maturity level.
@@ -42,7 +46,6 @@ To address these challenges, the operations manager should focus on:
 4. Establishing effective communication channels and systems to share information and coordinate water management efforts across the organization.
 5. Planning for future scalability, ensuring that the digital infrastructure is designed to handle increased production demands.
 6. Continuously reviewing and updating processes to maintain compliance with regulatory requirements and industry best practices.
-
 ### Data Attributes for Water at Developing stage (Basic digitalization)
 
 As a cannabis cultivation facility operations manager at the Developing stage (Basic digitalization), various data attributes related to water management would likely be collected. These data attributes can include:
@@ -79,7 +82,6 @@ Data consumption at this level:
 1. Data may be consumed through spreadsheet reports, graphs, or basic dashboards.
 2. Actionable data-driven decisions may not be made as frequently as in more advanced stages due to inconsistencies and limited integration.
 3. However, the collected data can still be used to identify trends, monitor water usage, and make some improvements in water management practices.
-
 ### Data Events for Water at Developing stage (Basic digitalization)
 
 As a cannabis cultivation facility operations manager at the Developing stage (Basic digitalization), various events related to water management would likely be collected. These events can include:
@@ -112,7 +114,6 @@ Event consumption and actionable event-driven processes:
 1. Events may be consumed through logbooks, spreadsheets, or basic dashboards, potentially limiting the speed and accuracy of decision-making.
 2. Event-driven processes may be more reactive than proactive, as the limited automation and integration may hinder real-time response to issues.
 3. Actionable event-driven processes or actions may occur less frequently than in more advanced stages, but the collected data can still be used to improve water management practices and address issues as they arise.
-
 ### Quantity and Water at Developing stage (Basic digitalization)
 
 As a cannabis cultivation facility operations manager at the Developing stage (Basic digitalization), water has a significant impact on the quantity of cannabis produced. Proper water management is essential for healthy plant growth and development, which directly affects the yield.
@@ -128,7 +129,6 @@ Challenges of reporting Quantity at the Developing stage:
 3. Inconsistent reporting: The lack of standardized reporting procedures among staff members may lead to inconsistencies, making it difficult to evaluate the impact of water management on quantity accurately.
 4. Difficulty identifying trends and patterns: With basic digital tools and limited data analysis capabilities, it can be challenging to identify trends and patterns in the data, which could help optimize water management practices and improve quantity.
 5. Delayed decision-making: The lack of real-time data access and limited automation may result in slower decision-making, potentially reducing the ability to address water-related issues that impact plant quantity promptly.
-
 ### Quality and Water at Developing stage (Basic digitalization)
 
 As a cannabis cultivation facility operations manager at the Developing stage (Basic digitalization), water management significantly affects the quality of cannabis produced. Proper water management is essential for producing high-quality cannabis with desired characteristics, such as potency, terpene profile, and visual appeal.
@@ -144,7 +144,6 @@ Challenges of reporting Quality at the Developing stage:
 3. Data inconsistency: Manual data collection and entry can result in errors or inconsistencies, which could affect the accuracy of quality reporting and the ability to make informed decisions.
 4. Lack of standardization: The absence of standardized quality assessment criteria and reporting procedures may lead to varied interpretations of quality, making it difficult to accurately evaluate the impact of water management on product quality.
 5. Slow response to issues: Limited real-time data access and automation may delay the identification and resolution of water-related issues affecting quality, potentially resulting in a negative impact on the final product.
-
 ### Consistency and Water at Developing stage (Basic digitalization)
 
 As a cannabis cultivation facility operations manager at the Developing stage (Basic digitalization), water management plays a crucial role in maintaining consistency in the cultivation process. Proper water management ensures that plants receive the appropriate amount of water and nutrients, leading to consistent growth and product quality.
@@ -162,7 +161,6 @@ Challenges of reporting Consistency at the Developing stage:
 3. Lack of real-time monitoring: The Developing stage may not have advanced real-time monitoring systems in place, making it difficult to quickly identify and address inconsistencies in water management.
 4. Inadequate standardization: Without standardized procedures for water management and data collection, consistency reporting can be challenging, and the results may be less reliable.
 5. Limited integration: Basic digital systems may lack integration with other cultivation management systems, making it difficult to identify correlations between water management practices and consistency in product output. This limitation could hinder the ability to make informed decisions and improve consistency in the cultivation process.
-
 ### Efficiency at Water at Developing stage (Basic digitalization)
 
 As a cannabis cultivation facility operations manager at the Developing stage (Basic digitalization), efficient water management is vital for optimizing resource usage, reducing waste, and maintaining plant health. The level of digitalization at this stage can impact the efficiency of water management.

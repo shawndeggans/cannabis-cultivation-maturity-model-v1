@@ -1,3 +1,8 @@
+---
+layout: default
+title: "People and Managing Beneficial Microorganisms at Initial stage (Ad hoc)"
+---
+
 ### People and Managing Beneficial Microorganisms at Initial stage (Ad hoc)
 
 At the Initial stage (Ad hoc) of cannabis cultivation, operations are primarily reactive and lack a structured approach to managing beneficial microorganisms. In this stage, the roles involved in working with or managing beneficial microorganisms may include the following:
@@ -14,7 +19,6 @@ At this maturity level, people fulfilling these roles may face several challenge
 4. Limited resources: The cultivation facility may have limited resources, making it difficult to invest in beneficial microorganisms or the equipment required for their proper application.
 
 In summary, at the Initial stage (Ad hoc) of cannabis cultivation maturity, the roles involved in managing beneficial microorganisms include the cultivation owner, cultivation manager, and cultivation technicians. These individuals may face challenges due to a lack of knowledge, inconsistent application, time management issues, and limited resources, which can impact overall plant health and yield.
-
 ### Processes and Managing Beneficial Microorganisms at Initial stage (Ad hoc)
 
 As a cannabis cultivation facility operations manager at the Initial stage (Ad hoc) maturity level, the processes and procedures for managing beneficial microorganisms are often informal and inconsistent. This can lead to several organizational problems and issues:
@@ -27,7 +31,6 @@ As a cannabis cultivation facility operations manager at the Initial stage (Ad h
 6. Difficulty in identifying and resolving issues: The lack of structured processes for managing beneficial microorganisms can make it challenging to pinpoint the root cause of problems when they arise, leading to longer resolution times and potential damage to the plants.
 
 In summary, at the Initial stage (Ad hoc) maturity level, the processes and procedures for managing beneficial microorganisms are informal and inconsistent, leading to a variety of organizational problems. These include a lack of SOPs, inadequate training, a reactive approach to problem-solving, limited knowledge sharing, inefficient use of resources, and difficulty in identifying and resolving issues related to plant health and cultivation.
-
 ### Data Attributes for Beneficial Microorganisms at Initial stage (Ad hoc)
 
 At the Initial stage (Ad hoc) maturity level, the data attributes related to managing Beneficial Microorganisms might be minimal, inconsistent, and potentially incomplete. Nevertheless, some data attributes that could be collected include:
@@ -55,7 +58,6 @@ Data governance at the Initial stage (Ad hoc) maturity level is likely to be min
 Data consumption and decision-making:
 
 At the Initial stage (Ad hoc) maturity level, data may be consumed sporadically and may not always contribute to actionable, data-driven decisions. The lack of standardized data collection and analysis processes can limit the reliability and usefulness of the available data, making it challenging for managers and team members to make informed decisions based on this information.
-
 ### Data Events for Beneficial Microorganisms at Initial stage (Ad hoc)
 
 At the Initial stage (Ad hoc) maturity level, the event collection related to managing Beneficial Microorganisms might be minimal and sporadic. Some events that could be collected include:
@@ -83,7 +85,6 @@ At this maturity level, automation, notifications, and alerts related to Benefic
 Event consumption and actions:
 
 At the Initial stage (Ad hoc) maturity level, events might be consumed irregularly and may not always contribute to actionable event-driven processes or actions. The lack of standardized event collection and analysis can limit the reliability and usefulness of the available event data, making it challenging for managers and team members to make informed decisions based on this information.
-
 ### Quantity and Beneficial Microorganisms at Initial stage (Ad hoc)
 
 At the Initial stage (Ad hoc) maturity level, Beneficial Microorganisms may have an inconsistent impact on the Quantity of cannabis produced due to the lack of standardized processes, limited knowledge, and unsystematic application methods. Some potential effects include:
@@ -98,7 +99,6 @@ Challenges of reporting Quantity for this Maturity Model Stage:
 3. Variability in microorganism application: Inconsistent application methods, rates, and timing can result in variable outcomes, making it difficult to draw conclusions about the impact of Beneficial Microorganisms on Quantity.
 4. Insufficient resources: Limited resources and knowledge may prevent the facility from implementing more advanced techniques or acquiring the necessary tools to properly measure and analyze the impact of Beneficial Microorganisms on Quantity.
 5. Manual tracking: With limited or no digital tools for tracking, manual methods may be used, increasing the likelihood of human error and inefficiencies in reporting.
-
 ### Quality and Beneficial Microorganisms at Initial stage (Ad hoc)
 
 At the Initial stage (Ad hoc) maturity level, the impact of Beneficial Microorganisms on the Quality of cannabis produced is likely inconsistent due to the lack of standardized processes, limited knowledge, and unsystematic application methods. Some potential effects include:
@@ -114,7 +114,6 @@ Challenges of reporting Quality for this Maturity Model Stage:
 4. Insufficient resources: Limited resources and knowledge may prevent the facility from implementing more advanced techniques or acquiring the necessary tools to properly measure and analyze the impact of Beneficial Microorganisms on Quality.
 5. Manual tracking: With limited or no digital tools for tracking, manual methods may be used, increasing the likelihood of human error and inefficiencies in reporting.
 6. Inadequate quality control: In the absence of standardized processes, quality control measures may be insufficient, leading to a lack of consistency in the quality of the final product.
-
 ### Consistency and Beneficial Microorganisms at Initial stage (Ad hoc)
 
 At the Initial stage (Ad hoc) maturity level, the impact of Beneficial Microorganisms on the Consistency of cannabis produced is likely limited due to the lack of standardized processes, limited knowledge, and unsystematic application methods. Some potential effects on Consistency include:
@@ -130,7 +129,6 @@ Challenges of reporting Consistency for this Maturity Model Stage:
 4. Insufficient resources: Limited resources and knowledge may prevent the facility from implementing more advanced techniques or acquiring the necessary tools to properly measure and analyze the impact of Beneficial Microorganisms on Consistency.
 5. Manual tracking: With limited or no digital tools for tracking, manual methods may be used, increasing the likelihood of human error and inefficiencies in reporting.
 6. Lack of quality control measures: In the absence of standardized processes, quality control measures may be insufficient, leading to a lack of consistency in the application of Beneficial Microorganisms and the resulting effects on the final product.
-
 ### Efficiency at Beneficial Microorganisms at Initial stage (Ad hoc)
 
 At the Initial stage (Ad hoc) maturity level, the impact of Beneficial Microorganisms on Efficiency in a cannabis cultivation facility is likely limited due to a lack of standardized processes, limited knowledge, and unsystematic application methods. Some potential effects on Efficiency include:

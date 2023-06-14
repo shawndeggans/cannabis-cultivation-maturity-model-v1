@@ -1,3 +1,8 @@
+---
+layout: default
+title: "People and Managing  VPD at Managed stage (Advanced technology adoption)"
+---
+
 ### People and Managing  VPD at Managed stage (Advanced technology adoption)
 
 As a cannabis cultivation owner at the Managed stage (Advanced technology adoption), the operations involve utilizing advanced technology to monitor and manage VPD effectively. Various roles within the cultivation facility work together to ensure that VPD is maintained at optimal levels.
@@ -26,7 +31,6 @@ Problems people may face at the Managed stage:
 4. Balancing automation and human intervention: Striking the right balance between automated systems and human decision-making is crucial. Overreliance on automation can lead to complacency, while too much human intervention can negate the benefits of advanced technology.
 
 In summary, at the Managed stage (Advanced technology adoption), multiple roles collaborate to manage VPD effectively, utilizing advanced technology to optimize cannabis cultivation. Challenges faced at this maturity level include technology integration, training and adaptation, data overload, and balancing automation with human intervention.
-
 ### Processes and Managing VPD at Managed stage (Advanced technology adoption)
 
 As a cannabis cultivation facility operations manager at the Managed stage (Advanced technology adoption), processes and procedures related to managing VPD are streamlined, data-driven, and heavily reliant on advanced technology and automation. However, there can be several problems and issues that may arise organizationally.
@@ -40,7 +44,6 @@ As a cannabis cultivation facility operations manager at the Managed stage (Adva
 7. Staff training and development: As technology evolves, it is vital to provide ongoing training and development opportunities for staff to ensure they are equipped with the necessary skills to manage VPD effectively using the latest technology.
 
 In summary, at the Managed stage (Advanced technology adoption), processes and procedures related to managing VPD are advanced and efficient. However, challenges that may arise include technology integration, standardization of processes, change management, data management and security, continuous improvement, balancing costs and benefits, and staff training and development.
-
 ### Data Attributes for VPD at Managed stage (Advanced technology adoption)
 
 As a cannabis cultivation facility operations manager at the Managed stage (Advanced technology adoption), managing VPD involves collecting and analyzing a comprehensive range of data attributes to make data-driven decisions. The following data attributes are likely to be collected at this maturity level:
@@ -74,7 +77,6 @@ Data governance at this level would involve:
 3. Data audit and compliance: Regularly auditing data practices to ensure compliance with industry standards and regulations.
 
 At the Managed stage, data can be consumed in real-time or near real-time, enabling actionable data-driven decisions that optimize VPD management, as well as other aspects of cannabis cultivation. This leads to improved efficiency, yield, and overall quality of the product.
-
 ### Data Events for VPD at Managed stage (Advanced technology adoption)
 
 In the Managed stage (Advanced technology adoption), a cannabis cultivation facility operations manager would likely collect various events related to VPD management. These events include:
@@ -104,7 +106,6 @@ Automation, notifications, and alerts at this maturity level would likely includ
 3. Predictive analytics and proactive alerts: Utilizing machine learning and historical data to predict potential issues and generate proactive alerts or recommendations.
 
 Events can be consumed or published through various channels at this level, such as dashboards, reports, mobile apps, or APIs for integration with third-party systems. Events contribute frequently to actionable event-driven processes or actions, enabling the operations manager and their team to make timely decisions and adjustments to optimize VPD management and overall cultivation success.
-
 ### Quantity and VPD at Managed stage (Advanced technology adoption)
 
 At the Managed stage (Advanced technology adoption), VPD directly affects the Quantity of cannabis produced by influencing the plant's transpiration rate, nutrient uptake, and overall growth. Properly managing VPD at this stage can lead to higher yields and more consistent production.
@@ -124,7 +125,6 @@ Challenges of reporting Quantity for this Maturity Model Stage:
 5. Change management: Implementing new technologies, processes, or systems to improve VPD management may require changes in the cultivation team's workflow or responsibilities, which can be challenging to implement and manage effectively.
 
 By overcoming these challenges, the cannabis cultivation facility can optimize VPD management and improve the Quantity of cannabis produced at the Managed stage (Advanced technology adoption).
-
 ### Quality and VPD at Managed stage (Advanced technology adoption)
 
 At the Managed stage (Advanced technology adoption), VPD directly affects the Quality of cannabis produced by influencing factors such as the plant's overall health, cannabinoid and terpene production, and resilience against pests and diseases. Properly managing VPD at this stage can lead to higher-quality cannabis with better potency, flavor, and aroma.
@@ -145,7 +145,6 @@ Challenges of reporting Quality for this Maturity Model Stage:
 5. Change management: Implementing new technologies, processes, or systems to improve VPD management may require changes in the cultivation team's workflow or responsibilities, which can be challenging to implement and manage effectively.
 
 By overcoming these challenges, the cannabis cultivation facility can optimize VPD management and improve the Quality of cannabis produced at the Managed stage (Advanced technology adoption).
-
 ### Consistency and VPD at Managed stage (Advanced technology adoption)
 
 At the Managed stage (Advanced technology adoption), VPD directly affects Consistency by influencing the uniformity of growth, flowering, and overall quality of the cannabis plants across different cycles and batches. Properly managing VPD can lead to more consistent cannabis production with reduced variability in product quality and yield.
@@ -165,7 +164,6 @@ Challenges of reporting Consistency for this Maturity Model Stage:
 5. Variability in plant genetics: Even with optimal VPD management, inherent genetic variability among cannabis plants can contribute to inconsistencies in growth and end product quality.
 
 By overcoming these challenges and implementing advanced technology and processes for VPD management, a cannabis cultivation facility can improve the Consistency of its products at the Managed stage (Advanced technology adoption).
-
 ### Efficiency at VPD at Managed stage (Advanced technology adoption)
 
 At the Managed stage (Advanced technology adoption), VPD directly affects Efficiency by optimizing the overall growth, resource utilization, and energy consumption of the cannabis cultivation process. Properly managing VPD can lead to more efficient cannabis production with lower resource inputs and higher yields.

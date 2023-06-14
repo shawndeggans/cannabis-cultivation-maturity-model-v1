@@ -1,3 +1,7 @@
+---
+layout: default
+title: "People and Managing  Carbon Dioxide at Developing stage (Basic digitalization)"
+---
 
 ### People and Managing  Carbon Dioxide at Developing stage (Basic digitalization)
 
@@ -23,7 +27,6 @@ Problems faced by people at the Developing stage:
 4. Partial automation: Although some digital tools are used, not all aspects of CO2 management may be automated, requiring manual intervention and increasing the likelihood of human error.
 
 To mitigate these problems, cultivation facilities at the Developing stage should focus on providing comprehensive training for employees, integrating digital tools more effectively, and exploring opportunities to automate CO2 management processes further. As the facility progresses to higher maturity levels, these challenges will become less significant, leading to more efficient and effective CO2 management.
-
 ### Processes and Managing  Carbon Dioxide at Developing stage (Basic digitalization)
 
 At the Developing stage (Basic digitalization), cannabis cultivation facilities have implemented basic digital tools for managing carbon dioxide (CO2), but the processes and procedures may still have room for improvement. Some of the problems and issues that can be encountered at this stage include:
@@ -45,7 +48,6 @@ To address these issues, a cannabis cultivation facility operations manager at t
 6. Analyzing CO2 management data to identify areas where resources can be allocated more efficiently and effectively.
 
 By addressing these challenges and refining processes and procedures, a cultivation facility can progress to higher maturity levels, leading to more efficient and effective CO2 management.
-
 ### Data Attributes for  Carbon Dioxide at Developing stage (Basic digitalization)
 
 At the Developing stage (Basic digitalization), a cannabis cultivation facility operations manager would likely collect the following data attributes related to managing carbon dioxide (CO2):
@@ -73,7 +75,6 @@ To address these challenges and improve data management at this maturity level, 
 3. Establishing standardized data collection and reporting procedures to enhance data quality and comparability.
 4. Strengthening data governance by defining roles and responsibilities related to data management and implementing data security measures.
 5. Encouraging a data-driven culture to ensure that CO2 management decisions are informed by accurate, timely, and relevant data.
-
 ### Data Events for Carbon Dioxide at Developing stage (Basic digitalization)
 
 At the Developing stage (Basic digitalization), a cannabis cultivation facility will likely have started implementing some digital tools and data collection methods to manage Carbon Dioxide (CO2) more efficiently. The events collected at this stage may include:
@@ -94,7 +95,6 @@ Event collection systems at this level may include basic digital sensors, data l
 Automation, notifications, and alerts at this maturity level may be limited. Basic threshold-based alerts and notifications could be in place for CO2 concentration levels, with some automated CO2 injection or ventilation adjustments. However, more advanced, predictive automation may not yet be implemented.
 
 Events can be consumed or published out to consumers at this level through simple dashboards, reports, or notifications. These may be shared with relevant stakeholders, such as cultivation managers, growers, or other staff. The frequency at which these events contribute to actionable event-driven processes or actions may still be limited, but improvements in data collection and monitoring should lead to more informed decisions and better overall CO2 management.
-
 ### Quantity and Carbon Dioxide at Developing stage (Basic digitalization)
 
 At the Developing stage (Basic digitalization), a cannabis cultivation facility operations manager would recognize the importance of Carbon Dioxide (CO2) in enhancing plant growth and, consequently, the overall quantity of cannabis produced. With the implementation of digital tools and basic data collection, there will be a better understanding of CO2 levels in the grow environment, enabling more informed decisions to optimize plant growth.
@@ -113,7 +113,6 @@ Challenges of reporting Quantity for this Maturity Model Stage include:
 4. Variability in environmental conditions: Even with basic digitalization, other factors, such as temperature, humidity, and light intensity, can impact plant growth and quantity. These factors need to be considered alongside CO2 management to accurately report and optimize cannabis quantity.
 
 Despite these challenges, the Developing stage (Basic digitalization) represents progress in managing CO2 levels and understanding their impact on cannabis quantity. As digital tools and data collection methods improve, so will the ability to optimize CO2 management and maximize cannabis production.
-
 ### Quality and Carbon Dioxide at Developing stage (Basic digitalization)
 
 At the Developing stage (Basic digitalization), a cannabis cultivation facility operations manager would acknowledge the role of Carbon Dioxide (CO2) in influencing not only the quantity but also the quality of cannabis produced. Proper management of CO2 levels can lead to healthier plants with higher cannabinoid and terpene profiles, both of which are crucial factors in determining the quality of cannabis.
@@ -132,7 +131,6 @@ Challenges of reporting Quality for this Maturity Model Stage include:
 4. Confounding factors: Other environmental factors, such as temperature, humidity, and light intensity, can also affect cannabis quality. It may be challenging to isolate the impact of CO2 management on quality while considering these additional variables.
 
 Although there are challenges in reporting the effects of CO2 on cannabis quality at the Developing stage (Basic digitalization), this stage still represents an improvement in understanding and managing CO2 levels. As digital tools, data collection methods, and analytics capabilities advance, the ability to optimize CO2 management for higher cannabis quality will also improve.
-
 ### Consistency and Carbon Dioxide at Developing stage (Basic digitalization)
 
 At the Developing stage (Basic digitalization), a cannabis cultivation facility operations manager recognizes the impact of Carbon Dioxide (CO2) on the consistency of cannabis production. Proper CO2 management is essential for maintaining uniform growth and development across different plants and cultivation cycles.
@@ -150,7 +148,6 @@ Challenges of reporting Consistency for this Maturity Model Stage include:
 4. Confounding factors: Other environmental factors, such as temperature, humidity, and light intensity, can also affect consistency. It may be difficult to isolate the impact of CO2 management on consistency while considering these additional variables.
 
 Despite these challenges, the Developing stage (Basic digitalization) represents progress in understanding and managing CO2 levels for improved consistency in cannabis production. As the facility advances to more sophisticated digital tools, data collection methods, and analytics capabilities, the ability to optimize CO2 management for higher consistency will also improve.
-
 ### Efficiency at Carbon Dioxide at Developing stage (Basic digitalization)
 
 At the Developing stage (Basic digitalization), a cannabis cultivation facility operations manager understands the importance of Carbon Dioxide (CO2) management in enhancing the efficiency of the cultivation process. Effective CO2 management can lead to increased growth rates, better resource utilization, and improved overall efficiency of the operation.

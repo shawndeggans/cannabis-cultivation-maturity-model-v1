@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Carbon Dioxide and Plant Lifecycle"
+---
+
 ## Carbon Dioxide and Plant Lifecycle
 
 Carbon dioxide (CO2) is a crucial component for plant growth and development throughout all stages of the plant life cycle. Photosynthesis relies on CO2, and increasing the concentration of CO2 in the grow environment can lead to enhanced growth rates and higher yields. Here's how CO2 relates to each stage of the plant life cycle:

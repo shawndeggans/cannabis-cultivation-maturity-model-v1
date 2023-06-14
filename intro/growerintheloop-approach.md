@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Introduction"
+---
+
 ## Introduction
 
 My wife and I started Green Nanny in 2019 with a vision for a better way to grow. Of the two of us, she had far more experience with the growing process, an understanding of plants, and an overall joy that comes from the magical cannabis plant than I did. What I brought to the table was a tenacity for learning new things and more than 25 years of experience in technology. Around this time, the promises and hype for IoT (Internet of Things) and AI (Artificial Intelligence) were at their highest. Combining the two created a whole new technology discipline called Edge Engineering. Edge Engineering allows you to containerize machine learning models trained to do specific tasks that used to be accomplished by humans and deploy them to IoT Edge devices. From the devices, the ML model would use sensors to recognize objects, detect dangerous machine conditions, and make fast, complex decisions that used to be the purview of human operators.
@@ -11,7 +16,6 @@ That dream hasn’t entirely died, it’s just evolved and changed over the year
 - And the biggest one, most of the cultivators we talked to were running their operations in a very ad hoc fashion. They did what they needed with information systems to remain compliant with the state, but they didn't collect data or use technology for much else. They didn't even use standard manufacturing process improvement systems like Standard Operating Procedures or Kaizen (Continuous Improvement).
 
 Faced with the harsh reality, we had to shelve our idea for a small device and take a different approach. We needed to build a system that benefits the plant through technology, but doesn't try to do the grower's job for them. In fact, we decided that more than anything, we needed to focus on the relationship between the growers and the plants and start building from there.
-
 ### The Birth of GrowerInTheLoop.com
 
 The more you learn about the cannabis plant, the more you realize how miraculous it is. It's not only valuable as a medicinal product, but it could probably replace many of the materials we use to manufacture products we use daily. However, if you're reading this, these are probably facts you're well aware of. Despite all these benefits that the plant brings to humanity, we've somehow done an excellent job of making it out to be the villain. Growers have also been mischaracterized as lazy pot smokers who hide away in basements growing illicit drugs for the local junior high kids.
@@ -23,7 +27,6 @@ Through my own journey of understanding how growers work, how plants mature, how
 In 2020, I came to the realization that I would never be able to grow on the same scale as my customers. My wife and I even considered purchasing or building our own cultivation facility in Oklahoma, but we quickly discovered that the investment required for equipment and materials, water requirements, commercial electrical connections, local laws and ordinances, and obtaining a state license was too high. We also lacked the necessary growing experience to risk someone else's money. While we had support from family and friends, we ultimately decided to abandon the idea and focus on helping growers rather than competing with them.
 
 Despite this setback, I remained committed to learning about the basics and advanced approaches to growing. Falling in love with something makes it easy to learn everything about it, and I spent a lot of time doing just that.
-
 ### An Education in Cannabis
 
 There's nothing quite like working in a real facility to gain an education, and luckily, I've had the opportunity to see real operations from cloning to harvesting to trimming. Clent Baker from Papa Jesus Farms has been a great mentor in this area. And of course, there are other places to get an education, like books. These are some of my favorites:
@@ -42,7 +45,6 @@ There's nothing quite like working in a real facility to gain an education, and 
 Some of these are not necessarily about growing cannabis, but they do cover the concepts of lean farming or technology in agriculture. And like any good educational endeavor, I have not stopped with these books. Many of the concepts I have used to create the [GrowerInTheLoop.com](http://growerintheloop.com/) approach have come from podcasts, whitepapers, and other industries, such as manufacturing's IIoT 4.0 and Walker Reynolds' Unified Namespace. You will probably also find Green Nanny on social media and cannabis forums where I contribute when I can.
 
 All of this is to say that there is a lot to learn in the cannabis production domain. It is both a new and well-established industry at the same time. There are definitely some hardened opinions among those in the community. I know growers who believe there should be no commercialization of cannabis, but that everyone should grow at home. Then, I know of people who have attempted to start a grow with no experience growing, but lots of funding and the promises of technology to fill in the gaps. All these approaches have met with various levels of success. It was the variation in growers, approaches, and opinions that helped Green Nanny create the product and services umbrella we are calling [GrowerInTheLoop.com](http://growerintheloop.com/).
-
 ### The Green Nanny Approach to Everything
 
 I once had a great discussion with an entrepreneur about continuous delivery and market disruption. I won't go into the details of the discussion, but I will share an analogy that I made during our conversation. We were specifically discussing the differences between carriage makers and automobile makers in the early 1900s. His argument was that carriage makers wouldn't have built cars through the continuous improvement process, but would have continued building carriages. This would have made them less viable as a business, as cars basically took over. I argued that this wouldn't be the case if the carriage maker's business goal wasn't just making carriages, but providing the best transportation experience for their customers.
@@ -52,7 +54,6 @@ And that's the approach that Green Nanny has taken for our business. Our driving
 What I want to ask myself, and the growers I work with regularly, is this: "Are you getting so wrapped up in technology that you neglect your garden?" If so, then we need to scale back the technology and return to hands-on work with the plants.
 
 It's a people, plants, processes, and technology approach. Although Green Nanny is primarily a technology company, we know where we fit in the hierarchy of cultivation facility needs. If what we provide isn't making life better for the plants, we're doing it wrong. Therefore, our North Star statement is about putting the plants and the growers first, and only bringing in the right amount of technology to improve their lives.
-
 ### Why GrowerInTheLoop.com
 
 Maturity models aren’t new to the consulting world. We’ve used them as a means to measure organizational capability, technology adoption, data governance, if you can name it, there’s likely a maturity model for it. Surprisingly, in the cannabis domain, I didn’t find much, but there are definitely approaches recommended in the agriculture and CEA (Controlled Environment Agriculture) domains. I took a look at a number of these proposed maturity models, and felt many were hit-and-miss in the way of usefulness. I’ll touch on a few, give my opinion, and then dive into what I think will work for cannabis cultivators, and specifically indoor grow cultivators. 
@@ -169,7 +170,6 @@ Basically, I feel like I have discovered the Pareto principle for cannabis. By f
 It was through all this research and thinking that it became clear to me that the cannabis cultivation world could not only use a maturity model, but one that was decidedly different from others. We need a model that doesn't approach cultivation as if it were cranking out pickup trucks or cans of beer. We need something that puts the thing we care about the most first. We need a plant-first approach to measuring our cultivation's success.
 
 This isn't to say that I don't believe these other approaches have no value. I've taken a look at the cannabis consulting competition, and the approaches range from basic process automation to practicing lean engineering. I believe all of these are excellent ways to improve a facility's operations. I believe that [GrowerInTheLoop.com](http://growerintheloop.com/) offers an approach that is not only compatible with traditional consulting practices, but also superior. By adopting the right type of technology for your facility, it brings a measurable approach to improving your operations. I think you'll agree with me.
-
 ## Why Use Maturity Models
 
 Before I dive into the details of the [GrowerInTheLoop.com](http://GrowerInTheLoop.com) maturity model, I want to discuss why a maturity model is good for cannabis cultivators and why it’s good for consulting companies, like Green Nanny. I think it’s important for us to get on the same level, so I’ll try to explain a maturity model as though we’re both kids. 
@@ -219,7 +219,6 @@ As you can see, there are many reasons not to use a maturity model, but we feel 
     1. Green Nanny has built [GrowerInTheLoop.com](http://GrowerInTheLoop.com) on the principle that steady growth, steady improvement, and a sustainable approach to cultivation with a focus on the plant lifecycle will improve quantity, quality, consistency, and efficiency leading to greater profitability, compliance with regulators, and a happier patients. We’re firmly onboard with helping cultivators practice continuous improvement.
 
 You should now know why Green Nanny developed GrowerInTheLoop.com’s maturity model framework. We see it as a win-win umbrella of products and services. You, as the cultivator can build a roadmap based on your primary product, the cannabis plant. We, as the consultants, can provide products and services that help you on your journey that are just enough for where you are and where you want to go. If you think this is an equitable approach and you would like to learn more, be sure to read the next section on how we designed the Maturity Model Framework.
-
 ## The Basic Blocks of the Maturity Model Framework
 
 Before we dive into the substance of the [GrowerInTheLoop.com](http://GrowerInTheLoop.com) maturity model framework, I want to discuss how it’s actually used. It’s important to understand that we have a basic model framework and it looks a bit like this:
@@ -227,7 +226,6 @@ Before we dive into the substance of the [GrowerInTheLoop.com](http://GrowerInTh
 ![Plant Pillar.png](Plant_Pillar.png)
 
 Green Nanny considers this the basic Maturity Model Framework. We’ve selected this schema, because it allows us to consistently represent different stages, but also act on those stages as though they are an active data model. In this section I’ll break down the different parts and explain what they mean.
-
 ### The Plant Pillar
 
 Right now there are fourteen different plant pillars. This could change over time with newer versions of the Maturity Model Framework, but we believe we’ve captured the primary essence of what the plant needs to flourish under the care of a grower.
@@ -260,7 +258,6 @@ Right now there are fourteen different plant pillars. This could change over tim
     - Canopy management involves controlling the height and width of the plant canopy to promote optimal growth and yield. Techniques such as topping, pruning, and training can be used to manage the canopy.
 14. Diseases and Pest control:
     - Indoor cannabis plants are susceptible to pests and diseases, and growers should take measures to prevent and control infestations. Integrated pest management (IPM) strategies, such as using beneficial insects and applying organic pesticides, can be effective in controlling pests and diseases.
-
 ### Maturity Stages
 
 For each of the plant pillars, we break them down into maturity stages. This isn’t the maturity of the plant, but the maturity by which the grower or facility approaches this area of care. This is broken down more, but for illustration here is the best way to think of these levels of maturity applied to an overall cultivation facility:
@@ -275,25 +272,20 @@ For each of the plant pillars, we break them down into maturity stages. This isn
     - In this stage, cultivators have embraced advanced technologies like IoT, artificial intelligence, and machine learning to optimize their cultivation processes. They are using data analytics and predictive modeling to make strategic decisions, and there's a strong focus on continuous improvement and innovation.
 5. Optimizing stage (Cutting-edge technology adoption):
     - At the highest level of maturity, cultivators are leveraging cutting-edge technologies like robotics, advanced AI, and blockchain for supply chain management. They continuously innovate and optimize their processes, staying at the forefront of the industry.
-
 ### People
 
 This section provides an example of what to expect from people at a particular maturity level. For example, if a facility's maturity level in caring for plants with regard to disease and pest control is ad hoc, you might expect growers to visually inspect plants for signs of pests or powdery mildew, or maybe only react after they’ve seen signs of disease. A more mature approach might involve monitoring the air filtration system for spores or insects, or use computer vision to inspect leaves. People will always play a part in the plant growth cycle and provide some care based on a plant's needs, but the level and type of care will vary depending on the grower's choices and the maturity stage of the facility.
-
 ### Process
 
 Much like the above, the process section describes the common processes and procedures at this stage. You can expect to see more manual processes in the Ad hoc stage and more automated processes in the Defined or Managed stages. Additionally, more advanced techniques may be applied at different stages. 
 
 It’s important to note that you may occasionally see People and Process overlap in the maturity model. That’s normal, because people are usually committing the actions that the processes describe. We don’t see them as duplicate data though. We find it valuable to describe the process, and then describe how people complete the process. 
-
 ### Data Attributes
 
 Basically, this is the data schema for this particular plant pillar. Depending on the maturity stage, this could be just a few basic attributes on a table or multiple data models. And this is one area where we encourage customization. We will suggest a great set of starting values, but as you continue your data maturity journey, you’ll want to make these models as rich as necessary to meet your business objectives. When we speak of the “state” of the data, we’re typically talking about this data in its most up-to-date form. 
-
 ### Data Events
 
 Almost every activity around the plant lifecycle is an event. If you can attach a date and time to some type of action, we consider that an events. We like to capture events. Over time, we can use events to improve efficiency, processes, and even learn how to better grow plants. Events are often used to update the Data Attributes, keeping those values as recent as possible, but we maintain a history of events. Like a bank ledger, we can return to any date and see that state of that attribute. This is a more technical concept that I won’t dive into deeply here, but I will state that there are many valuable reasons to collect data this way, because as the system grows, these events and the data associated with them, will be the training data we need to create more intelligent systems. 
-
 ### KPIs
 
 We have four basic KPIs that we follow. They are Quantity, Quality, Consistency, and Efficiency. 
@@ -315,7 +307,6 @@ To capture data for these KPIs, there are several automated ways a cannabis cult
 4. Energy monitoring systems: These can track energy consumption and identify areas where efficiency can be improved.
 
 By using these automated data capture tools, a cannabis cultivation facility can have a more accurate and real-time understanding of their KPIs. This can help them make informed decisions to optimize their operations and ultimately improve their bottom line.
-
 ### The Assessment Cycle
 
 ```mermaid

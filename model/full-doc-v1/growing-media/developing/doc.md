@@ -1,3 +1,8 @@
+---
+layout: default
+title: "People and Managing Growing Media at Developing stage (Basic digitalization)"
+---
+
 ### People and Managing Growing Media at Developing stage (Basic digitalization)
 
 As a cannabis cultivation owner, understanding the roles and challenges of people working at the Maturity Stage of Developing stage (Basic digitalization) related to managing Growing Media is important. At this stage, there is a basic level of digitalization, which helps improve some aspects of growing media management, but there are still challenges that staff may face.
@@ -25,7 +30,6 @@ Problems faced by people working at this maturity level:
 5. Resistance to change: Implementing digitalization can be met with resistance from some staff members, creating challenges in the adoption of new processes and tools.
 
 At the Developing stage (Basic digitalization), people working with growing media face challenges related to limited digital tools, data integration, incomplete or inconsistent data, skills gap, and resistance to change. Addressing these challenges through continuous improvement, staff training, and better technology adoption will enhance the efficiency and effectiveness of growing media management.
-
 ### Processes and Managing Growing Media at Developing stage (Basic digitalization)
 
 As a cannabis cultivation facility operations manager at the Developing stage (Basic digitalization), there are various processes and procedures involved in managing Growing Media. However, there can be some problems and issues that arise organizationally at this maturity level.
@@ -39,7 +43,6 @@ As a cannabis cultivation facility operations manager at the Developing stage (B
 7. Difficulty in scaling: As the cultivation facility grows, managing growing media with basic digitalization can become more complex and challenging, making it harder to scale operations efficiently.
 
 To address these challenges, it is essential to invest in more advanced digital tools and systems, streamline processes, improve data integration, enhance staff training and support, and implement real-time monitoring and control systems. By doing so, the cultivation facility can better manage growing media at the Developing stage (Basic digitalization) and work toward more mature levels of digitalization and efficiency.
-
 ### Data Attributes for Growing Media at Developing stage (Basic digitalization)
 
 At the Developing stage (Basic digitalization) of a cannabis cultivation facility, the following data attributes related to Growing Media might be collected:
@@ -65,7 +68,6 @@ Data governance at the Developing stage typically involves establishing basic pr
 At this level, data can be consumed through reports, charts, or simple dashboards, which provide an overview of growing media performance and help identify potential issues. Data-driven decisions may be made periodically, but the frequency and level of sophistication may be limited by the available tools and the quality of the data collected.
 
 Improving data collection methods, investing in more advanced data systems, and enhancing data governance can help overcome these challenges and contribute to more actionable, data-driven decisions related to growing media management.
-
 ### Data Events for Growing Media at Developing stage (Basic digitalization)
 
 At the Developing stage (Basic digitalization), the following events related to Growing Media might be collected in a cannabis cultivation facility:
@@ -90,7 +92,6 @@ At the Developing stage, automation, notifications, and alerts are possible but 
 Events can be consumed through manual review of event logs, basic reports, or simple dashboards. These events may contribute to decision-making processes, but the level of sophistication and frequency of actionable event-driven processes or actions may be limited by the available tools and data quality.
 
 Improving event collection systems, incorporating real-time monitoring, and investing in more advanced automation technologies can help overcome these challenges and enhance event-driven processes related to growing media management.
-
 ### Quantity and Growing Media at Developing stage (Basic digitalization)
 
 At the Developing stage (Basic digitalization), growing media can have a significant impact on the quantity of cannabis produced in a cultivation facility. The choice of media, its composition, and proper management can influence plant growth, health, and overall yield. Some ways that growing media can affect the quantity at this stage include:
@@ -106,7 +107,6 @@ Challenges of reporting Quantity at the Developing stage (Basic digitalization) 
 3. Insufficient data granularity: Data collection and reporting systems may not capture detailed information about specific growing media properties, making it difficult to assess their impact on the quantity produced.
 
 To overcome these challenges, facilities at the Developing stage should focus on improving data collection and reporting systems, implementing more accurate and automated data entry methods, and investing in tools that can support more advanced analytics to better understand the relationship between growing media and cannabis quantity.
-
 ### Quality and Growing Media at Developing stage (Basic digitalization)
 
 At the Developing stage (Basic digitalization), growing media can have a considerable impact on the quality of cannabis produced in a cultivation facility. The choice of media, its composition, and proper management can influence factors such as cannabinoid and terpene profiles, potency, appearance, and overall product quality. Some ways that growing media can affect the quality at this stage include:
@@ -122,7 +122,6 @@ Challenges of reporting Quality at the Developing stage (Basic digitalization) m
 3. Inconsistent data: Manual data entry or basic digital tools may result in errors or inconsistencies in the data, making it difficult to accurately report quality.
 
 To overcome these challenges, facilities at the Developing stage should focus on improving data collection and reporting systems, implementing more accurate and automated data entry methods, and investing in tools that can support more advanced analytics to better understand the relationship between growing media and cannabis quality. Additionally, developing standardized protocols for assessing quality factors can help create more consistent and reliable reporting.
-
 ### Consistency and Growing Media at Developing stage (Basic digitalization)
 
 At the Developing stage (Basic digitalization), growing media plays a vital role in maintaining consistency in cannabis cultivation. Consistency refers to the ability to produce uniform plants with similar characteristics, such as size, potency, and overall quality. The choice of growing media, its composition, and proper management can significantly influence consistency in cannabis production. Some ways that growing media can impact consistency at this stage include:
@@ -138,7 +137,6 @@ Challenges of reporting Consistency at the Developing stage (Basic digitalizatio
 3. Inadequate monitoring: The limited capabilities of basic digital tools may not allow for continuous monitoring of growing media conditions, making it challenging to identify and address inconsistencies in real-time.
 
 To address these challenges, cultivation facilities at the Developing stage should focus on improving data collection and reporting systems, implementing more accurate and automated data entry methods, and investing in tools that can support more advanced analytics to better understand the relationship between growing media and consistency. Moreover, facilities should develop and follow standardized protocols for managing growing media and closely monitor environmental conditions to ensure consistent plant growth and development.
-
 ### Efficiency at Growing Media at Developing stage (Basic digitalization)
 
 At the Developing stage (Basic digitalization), growing media can impact the efficiency of cannabis cultivation operations in various ways. Efficiency refers to the optimal use of resources and time while minimizing waste and maximizing yields. The choice of growing media, its composition, and proper management can significantly influence the efficiency of cannabis cultivation. Some ways that growing media can impact efficiency at this stage include:

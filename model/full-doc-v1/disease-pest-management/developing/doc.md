@@ -1,3 +1,8 @@
+---
+layout: default
+title: "People and Managing Diseases and Pest control at Developing stage (Basic digitalization)"
+---
+
 ### People and Managing Diseases and Pest control at Developing stage (Basic digitalization)
 
 At the Developing stage (Basic digitalization) of maturity, there is a shift towards adopting digital tools and more formalized processes for managing diseases and pest control. The following roles in the cultivation facility may be involved in these efforts:
@@ -19,7 +24,6 @@ Problems faced by people at this maturity level may include:
 2. Inconsistent data quality: As the facility transitions from an ad hoc approach to a more structured system, there may be challenges in ensuring data accuracy and consistency across all processes and team members.
 3. Resistance to change: Some team members may be hesitant to adopt new digital tools and processes, which can hinder the effective implementation of disease and pest control strategies.
 4. Insufficient expertise: The team may lack the necessary expertise in disease and pest management or the use of digital tools, leading to suboptimal decision-making and control measures.
-
 ### Processes and Managing Diseases and Pest control at Developing stage (Basic digitalization)
 
 At the Developing stage (Basic digitalization), processes and procedures related to managing diseases and pest control are becoming more formalized and structured, leveraging basic digital tools to improve efficiency and effectiveness. However, at this maturity level, there are still several problems and issues that can arise organizationally:
@@ -32,7 +36,6 @@ At the Developing stage (Basic digitalization), processes and procedures related
 6. Slow adaptation to emerging issues: The basic digital tools in use may not be agile enough to detect and respond to emerging diseases and pests quickly, which can lead to crop losses or reduced quality.
 7. Resistance to change: Some team members may be hesitant to embrace new digital tools and processes, which can slow down the implementation and effectiveness of the disease and pest control program.
 8. Lack of continuous improvement: The Developing stage often focuses on implementing basic digital tools and may not prioritize continuous improvement or optimization of processes, which can limit the effectiveness of the disease and pest control program in the long run.
-
 ### Data Attributes for Diseases and Pest control at Developing stage (Basic digitalization)
 
 At the Developing stage (Basic digitalization), data attributes that would likely be collected in relation to managing diseases and pest control include:
@@ -52,7 +55,6 @@ Challenges faced collecting data at this maturity level include:
 4. Manual data processing: Some data collection and analysis tasks may still be performed manually, leading to inefficiencies and potential errors.
 
 At this level, data systems may consist of basic tools like spreadsheets or simple software applications. Data governance may be minimal or informal, with limited oversight and standardization. Data consumption may be inconsistent, with data-driven decisions made on an ad hoc basis rather than as a routine part of the operation. The contribution of data to actionable decisions may be limited by the challenges mentioned above and the lack of advanced analytics capabilities.
-
 ### Data Events for Diseases and Pest control at Developing stage (Basic digitalization)
 
 At the Developing stage (Basic digitalization), events likely to be collected in relation to managing diseases and pest control include:
@@ -71,7 +73,6 @@ Challenges faced collecting these events at this maturity level include:
 At this level, event collection systems may consist of basic digital tools, such as spreadsheets or simple software applications, with limited automation capabilities. Some notifications and alerts may be possible through email or text messages, but more advanced automation or integration with other systems may be limited.
 
 Events can be consumed or published through email, printed reports, or shared files, but real-time data sharing and automated responses may not be feasible. Due to the limitations of the tools and processes at this maturity level, the contribution of event data to actionable processes or actions may be less frequent and less effective compared to more advanced stages.
-
 ### Quantity and Diseases and Pest control at Developing stage (Basic digitalization)
 
 At the Developing stage (Basic digitalization), diseases and pest control can impact the quantity of cannabis production in the following ways:
@@ -87,7 +88,6 @@ However, there are challenges in reporting quantity at this maturity stage:
 4. Lack of real-time data: Basic digital tools may not provide real-time data, which could delay decision-making and hinder quick interventions to minimize the impact of diseases and pests on plant quantity.
 
 Despite these challenges, the Developing stage (Basic digitalization) offers some advantages over the Initial stage (Ad hoc) in terms of monitoring and managing diseases and pests, potentially reducing their impact on the quantity of cannabis production. However, more advanced stages with better tools and automation can further improve the effectiveness of disease and pest control measures and their impact on quantity.
-
 ### Quality and Diseases and Pest control at Developing stage (Basic digitalization)
 
 At the Developing stage (Basic digitalization), diseases and pest control can impact the quality of cannabis production in the following ways:
@@ -103,7 +103,6 @@ However, there are challenges in reporting quality at this maturity stage:
 4. Limited real-time data: Basic digital tools may not provide real-time data, which could delay decision-making and hinder quick interventions to address quality issues.
 
 Despite these challenges, the Developing stage (Basic digitalization) offers some improvements over the Initial stage (Ad hoc) in terms of managing diseases and pests that affect the quality of cannabis production. More advanced stages with better tools, automation, and integration can further enhance the effectiveness of disease and pest control measures and their impact on quality.
-
 ### Consistency and Diseases and Pest control at Developing stage (Basic digitalization)
 
 At the Developing stage (Basic digitalization), diseases and pest control can impact the consistency of cannabis production in the following ways:
@@ -119,7 +118,6 @@ However, there are challenges in reporting consistency at this maturity stage:
 4. Lack of real-time data: Basic digital tools may not provide real-time data, making it difficult to identify inconsistencies promptly and address them before they affect the final product.
 
 Despite these challenges, the Developing stage (Basic digitalization) provides some improvements over the Initial stage (Ad hoc) in terms of managing diseases and pests that affect the consistency of cannabis production. More advanced stages with better tools, automation, and integration can further enhance the effectiveness of disease and pest control measures and their impact on consistency.
-
 ### Efficiency at Diseases and Pest control at Developing stage (Basic digitalization)
 
 At the Developing stage (Basic digitalization), diseases and pest control can impact efficiency in the following ways:

@@ -1,12 +1,14 @@
+---
+layout: default
+title: "cannabis-cultivation-maturity-model-v1"
+---
+
 # cannabis-cultivation-maturity-model-v1
 This is V1 of the GrowerInTheLoop.com Cannabis Cultivation Maturity Model
-
 ## What is the GrowerInTheLoop.com Cannabis Cultivation Maturity Model?
 The GrowerInTheLoop.com Cannabis Cultivation Maturity Model is a framework for assessing the maturity of a cannabis cultivation operation.  It is based on the primary pillars required to grow good cannabis and the basic maturity levels of initial, developing, defined, managed, and optimized. The goal of this model is to help cannabis cultivation professionals understand where they are in their journey to growing good cannabis and what they need to do to get to the next level.
-
 ## How do I use the GrowerInTheLoop.com Cannabis Cultivation Maturity Model?
 GrowerInTheLoop.com will provide a survey that will allow you to assess your operation against the maturity model.  The survey will provide you with a score for each pillar and an overall maturity level for your operation.  The report from this survey will also provide you with a list of recommendations for how to improve your maturity level. This is still under developmment.
-
 ## What are the pillars of the GrowerInTheLoop.com Cannabis Cultivation Maturity Model?
 Right now there are fourteen different plant pillars. This could change over time with newer versions of the Maturity Model Framework, but we believe we’ve captured the primary essence of what the plant needs to flourish under the care of a grower.
 
@@ -38,7 +40,6 @@ Right now there are fourteen different plant pillars. This could change over tim
     - Canopy management involves controlling the height and width of the plant canopy to promote optimal growth and yield. Techniques such as topping, pruning, and training can be used to manage the canopy.
 14. Diseases and Pest control:
     - Indoor cannabis plants are susceptible to pests and diseases, and growers should take measures to prevent and control infestations. Integrated pest management (IPM) strategies, such as using beneficial insects and applying organic pesticides, can be effective in controlling pests and diseases.
-
 ## What are the maturity levels of the GrowerInTheLoop.com Cannabis Cultivation Maturity Model?
 For each of the plant pillars, we break them down into maturity stages. This isn’t the maturity of the plant, but the maturity by which the grower or facility approaches this area of care. This is broken down more, but for illustration here is the best way to think of these levels of maturity applied to an overall cultivation facility:
 
@@ -52,18 +53,13 @@ For each of the plant pillars, we break them down into maturity stages. This isn
     - In this stage, cultivators have embraced advanced technologies like IoT, artificial intelligence, and machine learning to optimize their cultivation processes. They are using data analytics and predictive modeling to make strategic decisions, and there's a strong focus on continuous improvement and innovation.
 5. Optimizing stage (Cutting-edge technology adoption):
     - At the highest level of maturity, cultivators are leveraging cutting-edge technologies like robotics, advanced AI, and blockchain for supply chain management. They continuously innovate and optimize their processes, staying at the forefront of the industry.
-
 ## How do I contribute to the GrowerInTheLoop.com Cannabis Cultivation Maturity Model?
 There are no current contribution guidelines. If you would like to contribute, please contact us at shawn@greennannyllc.com
-
 ## How do I contact GrowerInTheLoop.com?
 The same address above will contact GrowerInTheLoop.com, or you can vist the website and sighn up for the newsletter at https://growerintheloop.com/introducing-growerintheloop
-
 ## We have an introduction to get you acquainted:
 [Introduction to the Maturity Model](intro/growerintheloop-approach.md)
-
 ## The maturity model is here:
 [The complete Maturity Model](model/full-doc-v1/maturity-model.md)
-
 ## HTML Pages for this project
 You can find HTML versions for this guide under the `docs` directory

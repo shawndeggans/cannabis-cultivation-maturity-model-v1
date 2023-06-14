@@ -1,3 +1,8 @@
+---
+layout: default
+title: "People and Managing Air distribution at Developing stage (Basic digitalization)"
+---
+
 ### People and Managing Air distribution at Developing stage (Basic digitalization)
 
 At the Developing stage (Basic digitalization) of a cannabis cultivation facility's maturity, operations related to managing air distribution begin to incorporate digital systems and tools. This stage sees improvements in monitoring and managing environmental conditions, but challenges still persist.
@@ -24,7 +29,6 @@ Problems faced due to the maturity level at the Developing stage:
 4. Inefficient processes: Although digital tools are being used, processes may still be inefficient, leading to wasted time and resources.
 
 At the Developing stage, the cultivation owner should focus on investing in more advanced digital systems, providing training to employees, and refining processes to improve the management of air distribution and overall operational efficiency.
-
 ### Processes and Managing Air distribution at Developing stage (Basic digitalization)
 
 At the Developing stage (Basic digitalization) of a cannabis cultivation facility, the processes and procedures for managing air distribution become more structured and data-driven. However, several problems and issues can still arise organizationally, especially related to air distribution management.
@@ -44,7 +48,6 @@ To address these issues and improve air distribution management at the Developin
 4. Encouraging a proactive approach to air distribution management by regularly monitoring environmental conditions and making data-driven adjustments.
 5. Providing training and support to staff to ensure they are skilled in using digital systems and tools for air distribution management.
 6. Developing and maintaining thorough documentation of air distribution management processes and procedures to promote best practices and consistency.
-
 ### Data Attributes for Air distribution at Developing stage (Basic digitalization)
 
 At the Developing stage (Basic digitalization) of a cannabis cultivation facility, more data attributes are collected in relation to managing air distribution compared to the Initial stage. However, there are still challenges faced at this maturity level. Here are the data attributes, challenges, data systems, governance, and data consumption at this stage:
@@ -78,7 +81,6 @@ Data consumption:
 Data consumption at this level may still be somewhat manual, with facility staff reviewing and analyzing data regularly. Data-driven decisions are more frequent compared to the Initial stage, but there may still be a reliance on human intuition and experience rather than fully leveraging the data. The frequency of data consumption and its contribution to actionable decisions will vary based on the specific facility and the staff's ability to manage and interpret the collected data.
 
 Improving data collection, integration, and governance at this stage will enable the facility to make more informed decisions, resulting in better air distribution management and overall operational efficiency.
-
 ### Data Events for Air distribution at Developing stage (Basic digitalization)
 
 At the Developing stage (Basic digitalization) of a cannabis cultivation facility, more events are collected in relation to managing air distribution compared to the Initial stage. However, there are still challenges faced at this maturity level. Here are the events, challenges, event collection systems, automation, notifications, alerts, and event consumption at this stage:
@@ -111,7 +113,6 @@ Event consumption and contribution to actionable processes:
 Events can be consumed or published to consumers through basic communication channels, such as email or messaging apps. At this stage, the frequency of event consumption and its contribution to actionable processes is likely to be higher than at the Initial stage but may still require manual intervention to address issues. Improved event tracking and real-time notifications could help the facility make more informed decisions and take timely actions to optimize air distribution.
 
 To advance to a higher maturity level, the facility should consider investing in more sophisticated event collection systems, improving automation, and refining notification and alert processes to ensure effective air distribution management.
-
 ### Quantity and Air distribution at Developing stage (Basic digitalization)
 
 As a cannabis cultivation facility operations manager, managing air distribution at the Developing stage (Basic digitalization) can impact the quantity of the harvest in several ways. Here are some effects and challenges related to reporting quantity at this maturity level:
@@ -130,7 +131,6 @@ Challenges in reporting Quantity:
 4. Incomplete data integration: Data collected from various systems may not be fully integrated, making it challenging to gain a comprehensive understanding of the relationship between air distribution and quantity.
 
 To overcome these challenges and enhance the understanding of the relationship between air distribution and quantity, the facility should consider investing in more advanced data collection systems, integrating data from multiple sources, and utilizing advanced analytics tools to derive insights and make data-driven decisions. This will help optimize air distribution management and ultimately improve the quantity of the harvest.
-
 ### Quality and Air distribution at Developing stage (Basic digitalization)
 
 As a cannabis cultivation facility operations manager, managing air distribution at the Developing stage (Basic digitalization) can impact the quality of the harvest in several ways. Here are some effects and challenges related to reporting quality at this maturity level:
@@ -149,7 +149,6 @@ Challenges in reporting Quality:
 4. Incomplete data integration: Data collected from various systems may not be fully integrated, making it challenging to gain a comprehensive understanding of the relationship between air distribution and quality.
 
 To overcome these challenges and enhance the understanding of the relationship between air distribution and quality, the facility should consider investing in more advanced data collection systems, integrating data from multiple sources, and utilizing advanced analytics tools to derive insights and make data-driven decisions. This will help optimize air distribution management and ultimately improve the quality of the harvest.
-
 ### Consistency and Air distribution at Developing stage (Basic digitalization)
 
 As a cannabis cultivation facility operations manager, managing air distribution at the Developing stage (Basic digitalization) can impact the consistency of the harvest in several ways. Here are some effects and challenges related to reporting consistency at this maturity level:
@@ -168,7 +167,6 @@ Challenges in reporting Consistency:
 4. Insufficient data analysis: Basic digitalization may lack advanced analytics tools, making it more difficult to identify patterns and correlations between air distribution factors and harvest consistency.
 
 To overcome these challenges and enhance the understanding of the relationship between air distribution and consistency, the facility should consider investing in more advanced data collection systems, integrating data from multiple sources, and utilizing advanced analytics tools to derive insights and make data-driven decisions. This will help optimize air distribution management and ultimately improve the consistency of the harvest.
-
 ### Efficiency at Air distribution at Developing stage (Basic digitalization)
 
 As a cannabis cultivation facility operations manager, managing air distribution at the Developing stage (Basic digitalization) can impact the efficiency of the operation in various ways. Here are some effects and challenges related to reporting efficiency at this maturity level:

@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Growing Media and Plant Lifecycle"
+---
+
 ## Growing Media and Plant Lifecycle
 
 Growing media plays an essential role throughout the various stages of the cannabis plant life cycle, providing a conducive environment for root development, nutrient uptake, and overall plant health. Here's a detailed look at how growing media relates to each stage of the plant life cycle:
